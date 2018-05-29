@@ -1,0 +1,151 @@
+sidebar:
+    # Site Settings
+    title: My Resume
+    url: 'http://gorosc.github.io'
+    #about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    
+    # Profile information
+    name: Christos Gkoros
+    tagline: Software Engineer
+    #pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    
+    # Sidebar links
+    email: chr.goros@gmail.com
+    phone: +306949444192
+    website: gorosc.github.io
+    linkedin: christos-gkoros
+    github: gorosc
+    #twitter: '@webjeda'
+
+    languages:
+        - language:
+          idiom: Greek
+          level: Native
+        - language:
+          idiom: English
+          level: Professional
+        - language:
+          idiom: German
+          level: Adequent
+        
+    interests:
+        - interest:
+          item: 12-Factor App Evangelion
+          link:
+        - interest:
+          item: Microservices Architecture
+          link:
+        - interest:
+          item: Software Quality Standards
+          link:
+        - interest:
+          item: Blockchain
+          link: 
+          
+career-profile:
+    title: Career Profile
+    text: 'Software engineer with strong skills in Architecture, Design and Development. Excellent communication skills. Proficient technical knowledge over a wide area of technologies. Experienced and eloquent with technical documents. Experienced in enteprise application software. '
+    
+
+studies:
+    - education:
+      degree: Computer Engineering and Informatics
+      university: University of Patras
+      
+experiences:
+    - experience:
+      role: Lead Software Engineer
+      time: February 2018 -
+      company: European Dynamics
+      details: 'Team leader of a three person software team with responsibilities of distributing tasks and overseeing their proper execution'
+    - experience:
+      role: Software Engineer
+      time: February 2016 - February 2018
+      company: European Dynamics
+      details: 'Design and implementation of web applications. Design, implementation and maintenance of the back-end of complex web based systems.'
+    - experience:
+      role: Full Stack Engineer
+      time: April 2015 - January 2016
+      company: Gov2u
+      details: 'Full-Stack Developer on LAMP stack, IT Ops on servers (Linux CentOS), Large volume e-mail campaigns (PHPList)'
+    - experience:
+      role: Full Stack Engineer
+      time: January 2011 - December 2014
+      company: Gamebattles.gr
+      details: 'Part of the Hellenic Starcraft 2 League support team and responsible for corrective and evolutive maintenance of the web portal, implementing meaningful data processing and statistical analysis on complex metrics for the player base, supporting hardware and software infrastructure on live events.'
+    - experience:
+      role: Software Engineer
+      time: January 2010 - August 2010
+      company: European Space Agency
+      details: "Software Developer (Java), contributing in project GENSO (Global Educational Network for Satellite Operations) for the Agency's Education Unit. Main tasks on the project were: Encapsulation with build scripts (ANT) of GENSO internals inside the Netbeans Platform. Implementation of a real-time application on the Netbeans Platfrom and a new GUI. Unit Testing"
+
+projects:
+    title: Projects
+    intro: 
+    projects:
+      - project:
+        title: NIS e-filing
+        link: "#"
+        tagline: "A module of the Intellectual Property Management Platform, responsible for handling electronic submission bn    of forms and petitions. More over i implemented a Form Builder tool, with the ability to visually design the most complex form, including digital signature and exteranl services integrations"
+      - project:
+        title: e-Justice
+        link: "https://e-justice.europa.eu/home.do"
+        tagline: "The Portal for e-Justice (legacy application) and additional satellite modules built on more recent technologies (Find A Lawyer, Geo Location, Court Law Database (CDB), Consumer Law Database (CLD), Case Law Identifier (ECLI), Machine Translations, Poetry Service). Used: J2EE, Struts 1, Tiles, JSP, Spring, CXF, Jasper Reports, REST, SOAP, IDOL"
+      - project:
+        title: Interpol Mail Gateway
+        link: "#"
+        tagline: "An application used for polling e-mail accounts, process the inbox and forward the emails to different addresses according to business rules. Used: Spring Boot, Camel Mail, Camel Restful, Docker"
+      - project:
+        title: ESTAT-SIMSTAT
+        link: "http://ec.europa.eu/eurostat/statistics-explained/index.php/SIMSTAT_-_exchange_of_microdata_on_intra-EU_trade"
+        tagline: "An Enterprise application, part of a larger system for data exchange between the EU countries Statistical Agencies. Used: J2EE, Spring, CXF, Camel, JMS, Angular, REST, Docker"
+      - project:
+        title: e-Cris
+        link: "http://ec.europa.eu/justice/criminal/european-e-justice/ecris/index_en.htm"
+        tagline: "An IT System for exchanging criminal records between the Member States of the European Union. Used: J2EE, Spring, CXF, Camel, SOAP, GWT, Docker"
+      - project:
+        title: FRA Portal
+        link: "http://fra.europa.eu/en"
+        tagline: "The Web Portal for the Fundamental Rights Agency. Used: Drupal 7, Custom Modules, Features, embedded Sub-Sites, Contextual Displays"
+      - project:
+        title: FRA Data Visualisation Server
+        link: "http://fra.europa.eu/en/publications-and-resources/data-and-maps"
+        tagline: "A Web application for displaying statistics and visualizations. Used: R, custom visualization render engine, Drupal, Ajax"
+      - project:
+        title: E-Prior
+        link: "http://ec.europa.eu/dgs/informatics/supplier_portal/index_en.htm"
+        tagline: "Integration with the European Commission’s E-Supplier system. Used: J2EE, Spring, Struts, SOAP"
+      - project:
+        title: World Bank e-Procurement Toolkit
+        link: "http://www.eprocurementtoolkit.org/"
+        tagline: "A Web portal for the World Bank E-procurement Toolkit. Used: Drupal 8, Twig, Automated Content Migration. Drupal 8 was at an early stage at that time, so in the scope of this project i implemented my integration between Drupal & PHPExcel for data export. Implemented a process for bulk import of translations (apart from content), with the ability to rollback, track, and selectively update them. "
+      - project:
+        title: N-Lex
+        link: "http://eur-lex.europa.eu/n-lex/"
+        tagline: "A Web application for that utilizes Drupal NEX Europa CMS and J2EE for retrieving national legislation from countries of the EU. Used: Drupal Nex Europa, J2EE, Spring MVC, SOAP, Javascript (AJAX), Perl"
+
+skills:
+    title: Skills &amp; Proficiency
+    skills:
+        - skill:
+          name: Java & J2EE & Spring
+          level: 98%
+        - skill:
+          name: Javascript & jQuery
+          level: 98%
+        - skill:
+          name: Angular
+          level: 80%
+        - skill:
+          name: R
+          level: 80%
+        - skill:
+          name: PHP
+          level: 85%
+        - skill:
+          name: REST & SOAP Web-Services
+          level: 98%
+
+
+footer: 
+    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
