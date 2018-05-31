@@ -44,9 +44,8 @@ sidebar:
           
 career-profile:
     title: Career Profile
-    text: 'Software engineer with strong skills in Architecture, Design and Development. Excellent communication skills. Proficient technical knowledge over a wide area of technologies. Experienced and eloquent with technical documents. Experienced in enteprise application software. '
+    text: 'Software engineer with strong skills in Architecture, Design and Development. Excellent communication skills. Proficient technical knowledge over a wide area of technologies. Experienced and eloquent with technical documents.'
     
-
 studies:
     - education:
       degree: Computer Engineering and Informatics
@@ -57,27 +56,27 @@ experiences:
       role: Lead Software Engineer
       time: February 2018 -
       company: European Dynamics
-      details: 'Team leader of a three person software team with responsibilities of distributing tasks and overseeing their proper execution'
+      details: 'Team leader of a three person software team with responsibilities of defining distributing tasks, overseeing their proper execution according to best practices, ensuring quality of the software produced. Participate in the implementation and proactively handle tricky problems and provide solutions. Participation in a development process with multiple teams (50+ people) where each team was responsible for a different module of the project. Some indicative technologies used: Java, J2EE, Spring Framework, AngularJS, Angular4, REST webservices'
     - experience:
       role: Software Engineer
       time: February 2016 - February 2018
       company: European Dynamics
-      details: 'Design and implementation of web applications. Design, implementation and maintenance of the back-end of complex web based systems.'
+      details: 'Part of a team handling multiple projects and a wide range of technologies in order to design and implement web-applications and to maintain the back-end of complex web based systems, mostly for the European Commision. Maintenance covered corrective and evolutive tasks. Participated in analysis of requirements, definition of technical solutions and implementation. Personal assignment to design and implement the team's CI/CD pipeline which was created using Jenkins and Docker. Some indicative technlogies: Java, Javascript, J2EE, Spring Framework, SOAP & REST webservices, Apache Camel, Docker, Drupal 7/8 (custom implentations utilizing the Drupal API), R (data processing and statistical analysis), SPARQLR queries, '
     - experience:
       role: Full Stack Engineer
       time: April 2015 - January 2016
       company: Gov2u
-      details: 'Full-Stack Developer on LAMP stack, IT Ops on servers (Linux CentOS), Large volume e-mail campaigns (PHPList)'
+      details: 'Full-Stack Developer on LAMP stack on multiple (10+ projects). Most of them were build with an opensource CMS (Joomla, Drupal mostly). IT Ops on servers (Linux CentOS) administered with both visual tools and shell. Setted up a multiple site PHPList grid, handled through a single point and run large volume e-mail campaigns.'
     - experience:
       role: Full Stack Engineer
       time: January 2011 - December 2014
       company: Gamebattles.gr
-      details: 'Part of the Hellenic Starcraft 2 League support team and responsible for corrective and evolutive maintenance of the web portal, implementing meaningful data processing and statistical analysis on complex metrics for the player base, supporting hardware and software infrastructure on live events.'
+      details: 'Part of the Hellenic Starcraft 2 League support team and responsible for corrective and evolutive maintenance of the web portal (Joomla), implementing meaningful data processing and statistical analysis on complex metrics for the player base, supporting hardware and software infrastructure on live events.'
     - experience:
-      role: Software Engineer
+      role: Software Engineer (Trainee)
       time: January 2010 - August 2010
       company: European Space Agency
-      details: "Software Developer (Java), contributing in project GENSO (Global Educational Network for Satellite Operations) for the Agency's Education Unit. Main tasks on the project were: Encapsulation with build scripts (ANT) of GENSO internals inside the Netbeans Platform. Implementation of a real-time application on the Netbeans Platfrom and a new GUI. Unit Testing"
+      details: "Software Engineer (Java), contributing in project GENSO (Global Educational Network for Satellite Operations) for the Agency's Education Unit. Main tasks were: Encapsulation with build scripts (ANT) of GENSO internals which were plain Java, inside the Netbeans Platform. Implementation of a new GUI on the Netbeans Platfrom. Unit Testing"
 
 projects:
     title: Projects
@@ -86,7 +85,7 @@ projects:
       - project:
         title: NIS e-filing
         link: "#"
-        tagline: "A module of the Intellectual Property Management Platform, responsible for handling electronic submission bn    of forms and petitions. More over i implemented a Form Builder tool, with the ability to visually design the most complex form, including digital signature and exteranl services integrations"
+        tagline: "A module of the Intellectual Property Management Platform, responsible for handling electronic submission electronic submission of forms. We implemented a Form Builder tool, with the ability to visually design complex forms. Used: Spring, AngularJS, Angular4, Aspose library"
       - project:
         title: e-Justice
         link: "https://e-justice.europa.eu/home.do"
@@ -106,7 +105,7 @@ projects:
       - project:
         title: FRA Portal
         link: "http://fra.europa.eu/en"
-        tagline: "The Web Portal for the Fundamental Rights Agency. Used: Drupal 7, Custom Modules, Features, embedded Sub-Sites, Contextual Displays"
+        tagline: "The Web Portal for the Fundamental Rights Agency. Used: Drupal 7, custom modules, integration of external services, Features, embedded Sub-Sites, Contextual Displays"
       - project:
         title: FRA Data Visualisation Server
         link: "http://fra.europa.eu/en/publications-and-resources/data-and-maps"
@@ -125,27 +124,36 @@ projects:
         tagline: "A Web application for that utilizes Drupal NEX Europa CMS and J2EE for retrieving national legislation from countries of the EU. Used: Drupal Nex Europa, J2EE, Spring MVC, SOAP, Javascript (AJAX), Perl"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Specialties
     skills:
         - skill:
-          name: Java & J2EE & Spring
+          name: True Multilingual applications with complex Web 2 (AJAX) interfaces
           level: 98%
         - skill:
-          name: Javascript & jQuery
+          name: Purposeful robust web services (REST, SOAP)
           level: 98%
         - skill:
-          name: Angular
+          name: Software architecture and algorithm design
           level: 80%
         - skill:
-          name: R
+          name: CI/CD pipeline design
           level: 80%
         - skill:
-          name: PHP
+          name: Languages: Java, Javascript, R, PHP
           level: 85%
         - skill:
-          name: REST & SOAP Web-Services
+          name: Frameworks: Spring (Boot), Camel, AngularJS
+          level: 98%
+        - skill:
+          name: Other:J2EE, JQuery
+          level: 98%
+        - skill:
+          name: Middleware: Weblogic, JBoss, Idol, Varnish, Apache HTTP
+          level: 98%
+        - skill:
+          name: DevOps: Docker, Vagrant, AWS, Linux, Jenkins, Sonarqube
           level: 98%
 
 
 footer: 
-    text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+    text: 'This resume was created with Jekyll and Github Pages. You can find the source code @ https://github.com/Gorosc/gorosc.github.io <br> Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
