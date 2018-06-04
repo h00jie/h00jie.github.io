@@ -30,8 +30,8 @@ sidebar:
         
     interests:
         - interest:
-          item: 12-Factor App Evangelion
-          link:
+          item: 12-Factor App
+          link: https://12factor.net/
         - interest:
           item: Microservices Architecture
           link:
@@ -85,7 +85,7 @@ projects:
       - project:
         title: NIS e-filing
         link: "#"
-        tagline: "A module of the Intellectual Property Management Platform, responsible for handling electronic submission electronic submission of forms. We implemented a Form Builder tool, with the ability to visually design complex forms. Used: Spring, AngularJS, Angular4, Aspose library"
+        tagline: "A module of the Intellectual Property Management Platform, responsible for handling electronic form submission. In addition, i contributed in the implementation a Form Builder tool, with the ability to visually design complex forms, based on an XSD files. Used: Spring, AngularJS, Angular4, Aspose library"
       - project:
         title: e-Justice
         link: "https://e-justice.europa.eu/home.do"
@@ -124,7 +124,7 @@ projects:
         tagline: "A Web application for that utilizes Drupal NEX Europa CMS and J2EE for retrieving national legislation from countries of the EU. Used: Drupal Nex Europa, J2EE, Spring MVC, SOAP, Javascript (AJAX), Perl"
 
 skills:
-    title: Specialties
+    title: Technical expertise
     skills:
         - skill:
           name: "True Multilingual applications with complex Web 2 (AJAX) interfaces"
@@ -139,19 +139,19 @@ skills:
           name: "CI/CD pipeline design"
           level: 80%
         - skill:
-          name: "Languages: Java, Javascript, R, PHP"
+          name: "Languages: Java, Javascript, R"
           level: 85%
         - skill:
-          name: "Frameworks: Spring (Boot), Camel, AngularJS"
+          name: "Frameworks: Spring & Spring Boot, Camel, AngularJS"
           level: 98%
         - skill:
           name: Other:J2EE, JQuery
           level: 98%
         - skill:
-          name: "Middleware: Weblogic, JBoss, Idol, Varnish, Apache HTTP"
+          name: "Middleware: Weblogic, JBoss, Tomcat, Idol, Varnish, Apache HTTP"
           level: 98%
         - skill:
-          name: "DevOps: Docker, Vagrant, AWS, Linux, Jenkins, Sonarqube"
+          name: "DevOps: Docker, Vagrant, Linux, Jenkins, Sonarqube"
           level: 98%
 
 
