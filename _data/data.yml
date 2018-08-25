@@ -86,11 +86,11 @@ projects:
       - project:
         title: NIS e-filing
         link: "#"
-        tagline: "A module of the Intellectual Property Management Platform, responsible for handling electronic form submission. In addition, i contributed in the implementation a Form Builder tool, with the ability to visually design complex forms, based on an XSD files. Used: Spring, AngularJS, Angular4, Aspose library"
+        tagline: "A module of the Intellectual Property Management Platform, responsible for handling electronic form submission. In addition, i contributed in the implementation a Form Builder tool, with the ability to visually design complex forms, capable to produce XMLs based on an XSD schemas. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library"
       - project:
         title: e-Justice
         link: "https://e-justice.europa.eu/home.do"
-        tagline: "The Portal for e-Justice (legacy application) and additional satellite modules built on more recent technologies (Find A Lawyer, Geo Location, Court Law Database (CDB), Consumer Law Database (CLD), Case Law Identifier (ECLI), Machine Translations, Poetry Service). Used: J2EE, Struts 1, Tiles, JSP, Spring, CXF, Jasper Reports, REST, SOAP, IDOL"
+        tagline: "The Portal for e-Justice (legacy application) and additional satellite modules built on more recent technologies (Find A Lawyer, Geo Location, Court Law Database (CDB), Consumer Law Database (CLD), Case Law Identifier (ECLI), Machine Translations, Poetry Service). Used: J2EE, Struts 1, Tiles, JSP, Spring, CXF, Jasper Reports, REST, SOAP, Autonomy IDOL, Jasper reports, XML/XSD, JBoss"
       - project:
         title: Interpol Mail Gateway
         link: "#"
@@ -110,19 +110,19 @@ projects:
       - project:
         title: FRA Data Visualisation Server
         link: "http://fra.europa.eu/en/publications-and-resources/data-and-maps"
-        tagline: "A Web application for displaying statistics and visualizations. Used: R, custom visualization render engine, Drupal, Ajax"
+        tagline: "A Web application for displaying statistics and visualizations. Implemented a survey's data processing R application from SPSS and XLS sources. The processing involved breaking the data in target groups subsets per country and in total. Implemented a visualization rendering engine using ggplot2 library (SVG, PDF, PNG). Implemented a webservice to serve the rendered visualization and integrate them inside a Drupal site. Used: R, custom visualization render engine, Drupal, Ajax"
       - project:
         title: E-Prior
         link: "http://ec.europa.eu/dgs/informatics/supplier_portal/index_en.htm"
-        tagline: "Integration with the European Commission’s E-Supplier system. Used: J2EE, Spring, Struts, SOAP"
+        tagline: "Integration with the European Commission’s E-Supplier system. Performed continuous evolutive maintenance on the SOAP client to comply with the updated e-supplier system contract. Used: J2EE, Spring, Struts, SOAP"
       - project:
         title: World Bank e-Procurement Toolkit
         link: "http://www.eprocurementtoolkit.org/"
-        tagline: "A Web portal for the World Bank E-procurement Toolkit. Used: Drupal 8, Twig, Automated Content Migration. Drupal 8 was at an early stage at that time, so in the scope of this project i implemented my integration between Drupal & PHPExcel for data export. Implemented a process for bulk import of translations (apart from content), with the ability to rollback, track, and selectively update them. "
+        tagline: "A Web portal for the World Bank E-procurement Toolkit. Used: Drupal 8, Twig, Automated Content Migration. Drupal 8 was at an early stage at that time, so in the scope of this project i implemented an integration between Drupal 8 & PHPExcel library for data export. Implemented an extension of the Migrate module to process bulk import of translations (apart from content), with the ability to rollback, track, and selectively update them"
       - project:
         title: N-Lex
         link: "http://eur-lex.europa.eu/n-lex/"
-        tagline: "A Web application for that utilizes Drupal NEX Europa CMS and J2EE for retrieving national legislation from countries of the EU. Used: Drupal Nex Europa, J2EE, Spring MVC, SOAP, Javascript (AJAX), Perl"
+        tagline: "A Web application for that utilizes Drupal NEX Europa CMS and J2EE for retrieving national legislation from countries of the EU. Implemented an aggregated solution for a) automatically translating search parameterers from Thesaurus(SPARQL) queries and webservices b) Searching in multiple countries' databases concurrently and asynchronously. Used: Drupal Nex Europa (Custom Drupal platfrom developes by the European Comission), J2EE, Spring MVC, SOAP, Javascript (AJAX), Perl"
 
 skills:
     title: Technical expertise
