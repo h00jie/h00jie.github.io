@@ -84,9 +84,13 @@ projects:
     intro: 
     projects:
       - project:
+        title: Swiss EPPs Form Filling Module
+        link: "#"
+        tagline: "A module of the Electronic Public Procurement Platform, responsible for handling electronic form submission. Modified existing form handling tools in order to cover <a href=https://simap.ted.europa.eu/web/simap/standard-forms-for-public-procurement>TED_ESENDERS</a> XSD schemas and produce from the same input XMLs compliant to multiple XSD schemas. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library, SOAP"
+      - project:
         title: NIS e-filing
         link: "#"
-        tagline: "A module of the Intellectual Property Management Platform, responsible for handling electronic form submission. In addition, i contributed in the implementation a Form Builder tool, with the ability to visually design complex forms, capable to produce XMLs based on an XSD schemas. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library"
+        tagline: "A module of the Intellectual Property Management Platform, gateway of the system, responsible for account management and electronic form submission. In addition, i contributed in the implementation of a Form Builder tool, with the ability to visually design complex forms, capable to produce XMLs based on an XSD schemas. Implemented a B2B (Business2Business) system according to enterprise integration patterns for bulk for payments and submissions using Apache Camel. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library, REST, Apache Camel"
       - project:
         title: e-Justice
         link: "https://e-justice.europa.eu/home.do"
@@ -110,7 +114,7 @@ projects:
       - project:
         title: FRA Data Visualisation Server
         link: "http://fra.europa.eu/en/publications-and-resources/data-and-maps"
-        tagline: "A Web application for displaying statistics and visualizations. Implemented a survey's data processing R application from SPSS and XLS sources. The processing involved breaking the data in target groups subsets per country and in total. Implemented a visualization rendering engine using ggplot2 library (SVG, PDF, PNG). Implemented a webservice to serve the rendered visualization and integrate them inside a Drupal site. Used: R, custom visualization render engine, Drupal, Ajax"
+        tagline: "A Web application for displaying statistics and visualizations. Implemented a survey data processing application with R from SPSS and XLS sources. The processing involved aggregating the data in target groups ,subsets, per country and calculating statistics. Implemented a visualization rendering engine using ggplot2 library (SVG, PDF, PNG) to display the statistics in various formats (map, charts etc). Implemented a webservice to serve the rendered visualization and integrate them inside a Drupal site. Used: R, custom visualization render engine, Drupal, Ajax"
       - project:
         title: E-Prior
         link: "http://ec.europa.eu/dgs/informatics/supplier_portal/index_en.htm"
@@ -140,10 +144,10 @@ skills:
           name: "CI/CD pipeline design"
           level: 80%
         - skill:
-          name: "Languages: Java, Javascript, R"
+          name: "Languages: Java, Typescript, Javascript, R"
           level: 85%
         - skill:
-          name: "Frameworks: Spring & Spring Boot, Camel, AngularJS"
+          name: "Frameworks: Spring (Boot), Camel, Angular, AngularJS"
           level: 98%
         - skill:
           name: Other:J2EE, JQuery
