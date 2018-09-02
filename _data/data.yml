@@ -90,19 +90,19 @@ projects:
       - project:
         title: NIS e-filing
         link: "#"
-        tagline: "A module of the Intellectual Property Management Platform, gateway of the system, responsible for account management and electronic form submission. In addition, i contributed in the implementation of a Form Builder tool, with the ability to visually design complex forms, capable to produce XMLs based on an XSD schemas. Implemented a B2B (Business2Business) system according to enterprise integration patterns for bulk for payments and submissions using Apache Camel. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library, REST, Apache Camel"
+        tagline: "A module of the Intellectual Property Management Platform, gateway of the system, responsible for account management and electronic form submission. In addition, i contributed in the implementation of a Form Builder tool, with the ability to visually design complex forms, capable to produce XMLs based on an XSD schemas. Implemented a B2B (Business2Business) system according to enterprise integration patterns for bulk payments and submissions. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library, REST, Apache Camel"
       - project:
         title: e-Justice
         link: "https://e-justice.europa.eu/home.do"
-        tagline: "The Portal for e-Justice (legacy application) and additional satellite modules built on more recent technologies (Find A Lawyer, Geo Location, Court Law Database (CDB), Consumer Law Database (CLD), Case Law Identifier (ECLI), Machine Translations, Poetry Service). Used: J2EE, Struts 1, Tiles, JSP, Spring, CXF, Jasper Reports, REST, SOAP, Autonomy IDOL, Jasper reports, XML/XSD, JBoss"
+        tagline: "The Portal for e-Justice (legacy application) and additional satellite modules built on more recent technologies (Find A Lawyer, Geo Location, Court Law Database (CDB), Consumer Law Database (CLD), Case Law Identifier (ECLI), Machine Translations, Poetry Service). Containerized applications running on JBoss and Weblogic servers inside a container ecosystem. Additional middleware such as Autonomy idol were also containerized. The composition consisted of docker images of each application and upon launch produced a full working development/testing environmennt. Performed an analysis of how to migrate a legacy Struts in Action style application (Struts/Session/Cache reliant, Custom persistence framework) to Spring MVC, Data, Security and simplify it's architecture to meet modern standards. Performed maintenance tasks. Used: J2EE, Struts 1, Tiles, JSP, Spring, CXF, Jasper Reports, REST, SOAP, Autonomy IDOL, Jasper reports, XML/XSD, JBoss, Docker"
       - project:
         title: Interpol Mail Gateway
         link: "#"
-        tagline: "An application used for polling e-mail accounts, process the inbox and forward the emails to different addresses according to business rules. Used: Spring Boot, Camel Mail, Camel Restful, Docker"
+        tagline: "An application used for polling e-mail accounts, process the inbox and forward the emails to different addresses according to business rules. Implemented according to Enterprise Integration Patterns. Used: Spring Boot, Camel Mail, Camel Restful, Docker"
       - project:
         title: ESTAT-SIMSTAT
         link: "http://ec.europa.eu/eurostat/statistics-explained/index.php/SIMSTAT_-_exchange_of_microdata_on_intra-EU_trade"
-        tagline: "An Enterprise application, part of a larger system for data exchange between the EU countries Statistical Agencies. Used: J2EE, Spring, CXF, Camel, JMS, Angular, REST, Docker"
+        tagline: "An Enterprise application, part of a larger system for data exchange between the EU countries Statistical Agencies. Implemented a container ecosystem with all components of European Commision network with which Simstat is connected (ESDEN, EDAMIS, EDIT, COMEXT, ECAS). The composition consisted of docker images of each application and upon launch produced a full working development/testing environmennt. Imlemented a new GUI acting as the gateway for the underlying system with Angular. Performed maintenance tasks. Used: J2EE, Spring, CXF, Camel, JMS, Angular, REST, Docker"
       - project:
         title: e-Cris
         link: "http://ec.europa.eu/justice/criminal/european-e-justice/ecris/index_en.htm"
@@ -110,11 +110,11 @@ projects:
       - project:
         title: FRA Portal
         link: "http://fra.europa.eu/en"
-        tagline: "The Web Portal for the Fundamental Rights Agency. Used: Drupal 7, custom modules, integration of external services, Features, embedded Sub-Sites, Contextual Displays"
+        tagline: "The Web Portal for the Fundamental Rights Agency. Implemented a solution to automatically create a seperate application inside the main application. The application covered the FRF (Fundamental Rights Forum) tha runs every two years. Thus the solution utilized Panels & Panel Variants, Contextual displays and Features in order to display a completely different view (drupal site) for each year event from the same code. Used: Drupal 7, custom modules, integration of external services, Features, embedded Sub-Sites, Contextual Displays"
       - project:
         title: FRA Data Visualisation Server
         link: "http://fra.europa.eu/en/publications-and-resources/data-and-maps"
-        tagline: "A Web application for displaying statistics and visualizations. Implemented a survey data processing application with R from SPSS and XLS sources. The processing involved aggregating the data in target groups ,subsets, per country and calculating statistics. Implemented a visualization rendering engine using ggplot2 library (SVG, PDF, PNG) to display the statistics in various formats (map, charts etc). Implemented a webservice to serve the rendered visualization and integrate them inside a Drupal site. Used: R, custom visualization render engine, Drupal, Ajax"
+        tagline: "A Web application for displaying statistics and visualizations. Implemented a survey data processing application with R from SPSS and XLS sources. The processing involved aggregating the data in target groups ,subsets and per country to calculate statistics. Implemented a visualization rendering engine using ggplot2 library (SVG, PDF, PNG) to display the statistics in various formats (map, charts etc). Implemented a webservice to serve the rendered visualization and integrate them inside a Drupal site. Used: R, custom visualization render engine, Drupal, Ajax"
       - project:
         title: E-Prior
         link: "http://ec.europa.eu/dgs/informatics/supplier_portal/index_en.htm"
@@ -122,7 +122,7 @@ projects:
       - project:
         title: World Bank e-Procurement Toolkit
         link: "http://www.eprocurementtoolkit.org/"
-        tagline: "A Web portal for the World Bank E-procurement Toolkit. Used: Drupal 8, Twig, Automated Content Migration. Drupal 8 was at an early stage at that time, so in the scope of this project i implemented an integration between Drupal 8 & PHPExcel library for data export. Implemented an extension of the Migrate module to process bulk import of translations (apart from content), with the ability to rollback, track, and selectively update them"
+        tagline: "A Web portal for the World Bank E-procurement Toolkit. Used: Drupal 8, Twig, Automated Content Migration. Drupal 8 was at an early stage at that time, so in the scope of this project i implemented missing functionality to the <a href="https://www.drupal.org/project/phpexcel">PHPExcel module</a>, an integration between Drupal 8 & the PHPExcel library for data export, which i contributed to the public repository of the module. Implemented an extension of the Migrate module to process bulk import of translations (apart from content), with the ability to rollback, track, and selectively update them"
       - project:
         title: N-Lex
         link: "http://eur-lex.europa.eu/n-lex/"
