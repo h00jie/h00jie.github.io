@@ -122,7 +122,7 @@ projects:
       - project:
         title: World Bank e-Procurement Toolkit
         link: "http://www.eprocurementtoolkit.org/"
-        tagline: "A Web portal for the World Bank E-procurement Toolkit. Used: Drupal 8, Twig, Automated Content Migration. Drupal 8 was at an early stage at that time, so in the scope of this project i implemented missing functionality to the <a href="https://www.drupal.org/project/phpexcel">PHPExcel module</a>, an integration between Drupal 8 & the PHPExcel library for data export, which i contributed to the public repository of the module. Implemented an extension of the Migrate module to process bulk import of translations (apart from content), with the ability to rollback, track, and selectively update them"
+        tagline: "A Web portal for the World Bank E-procurement Toolkit. Used: Drupal 8, Twig, Automated Content Migration. Drupal 8 was at an early stage at that time, so in the scope of this project i implemented missing functionality to the <a href='https://www.drupal.org/project/phpexcel'>PHPExcel module</a>, an integration between Drupal 8 & the PHPExcel library for data export, which i contributed to the public repository of the module. Implemented an extension of the Migrate module to process bulk import of translations (apart from content), with the ability to rollback, track, and selectively update them"
       - project:
         title: N-Lex
         link: "http://eur-lex.europa.eu/n-lex/"
