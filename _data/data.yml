@@ -57,7 +57,7 @@ experiences:
       role: Software Engineer (Team Leader)
       time: February 2018 -
       company: European Dynamics
-      details: "Team leader of a three person software team with responsibilities of defining and distributing tasks, overseeing their proper execution according to best practices, ensuring quality of the software produced. Participate in the implementation and proactively handle tricky problems and provide solutions. Participation in a development process with multiple teams (50+ people) where each team was responsible for a different module of the project. Some indicative technologies used: Java, J2EE, Spring Framework, AngularJS, Angular4, REST webservices"
+      details: "Team leader of a four person software team with responsibilities of defining and distributing tasks, overseeing their proper execution according to best practices, ensuring quality of the software produced. Take technical decisions, proactively handle tricky problems and provide solutions. Participation in a development process with multiple teams (50+ people) where each team was responsible for a different module of the project. Some indicative technologies used: Java, J2EE, Spring Framework, AngularJS, Angular4, REST webservices"
     - experience:
       role: Software Engineer
       time: February 2016 - February 2018
@@ -86,15 +86,15 @@ projects:
       - project:
         title: Swiss EPPs Form Filling Module
         link: "#"
-        tagline: "A module of the Electronic Public Procurement Platform, responsible for handling electronic form submission. Modified existing form handling tools in order to cover <a href=https://simap.ted.europa.eu/web/simap/standard-forms-for-public-procurement>TED_ESENDERS</a> XSD schemas and produce from the same input XMLs compliant to multiple XSD schemas. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library, SOAP"
+        tagline: "A module of the Electronic Public Procurement Platform, responsible for handling electronic form submission. Modified existing form handling tools in order to cover <a href=https://simap.ted.europa.eu/web/simap/standard-forms-for-public-procurement>TED_ESENDERS</a> XSD schemas and produce from the same input XMLs compliant to multiple XSD schemas. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library, CXF, SOAP"
       - project:
         title: NIS e-filing
         link: "#"
-        tagline: "A module of the Intellectual Property Management Platform, gateway of the system, responsible for account management and electronic form submission. In addition, i contributed in the implementation of a Form Builder tool, with the ability to visually design complex forms, capable to produce XMLs based on an XSD schemas. Implemented a B2B (Business2Business) system according to enterprise integration patterns for bulk payments and submissions. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library, REST, Apache Camel"
+        tagline: "A module of the Intellectual Property Management Platform, gateway of the system, responsible for account management and electronic form submission and payment. In addition, i contributed in the implementation of a Form Builder tool, with the ability to visually design complex forms, capable to produce XMLs based on an XSD schemas. Implemented a B2B (Business2Business) system according to enterprise integration patterns for bulk payments and submissions. Designed and implemented the integration with the Hong Kong Govermental Applications. Designed and implemented an offline signing tool with a GUI and shell input. Payment Gateway (EGIS). Used: XML/XSD, Spring, Spring Boot, AngularJS, Angular4, Aspose library, REST, CXF, Camel, SOAP"
       - project:
         title: e-Justice
         link: "https://e-justice.europa.eu/home.do"
-        tagline: "The Portal for e-Justice (legacy application) and additional satellite modules built on more recent technologies (Find A Lawyer, Geo Location, Court Law Database (CDB), Consumer Law Database (CLD), Case Law Identifier (ECLI), Machine Translations, Poetry Service). Containerized applications running on JBoss and Weblogic servers inside a container ecosystem. Additional middleware such as Autonomy idol were also containerized. The composition consisted of docker images of each application and upon launch produced a full working development/testing environmennt. Performed an analysis of how to migrate a legacy Struts in Action style application (Struts/Session/Cache reliant, Custom persistence framework) to Spring MVC, Data, Security and simplify it's architecture to meet modern standards. Performed maintenance tasks. Used: J2EE, Struts 1, Tiles, JSP, Spring, CXF, Jasper Reports, REST, SOAP, Autonomy IDOL, Jasper reports, XML/XSD, JBoss, Docker"
+        tagline: "The Portal for e-Justice (legacy application) and additional satellite modules built on more recent technologies (Find A Lawyer, Geo Location, Court Law Database (CDB), Consumer Law Database (CLD), Case Law Identifier (ECLI), Machine Translations, Poetry Service). Containerized applications running on JBoss and Weblogic servers inside a container ecosystem. Additional middleware such as Autonomy IDOL were also containerized. The composition consisted of docker images of each application and upon launch produced a full working development/testing environmennt. Performed an analysis of how to migrate a legacy Struts in Action style application (Struts/Session/Cache reliant, Custom persistence framework) to Spring MVC, Data, Security and simplify it's architecture to meet modern standards. Performed maintenance tasks. Used: J2EE, Struts 1, Tiles, JSP, Spring, CXF, Jasper Reports, REST, SOAP, Autonomy IDOL, Jasper reports, XML/XSD, JBoss, Docker"
       - project:
         title: Interpol Mail Gateway
         link: "#"
@@ -114,7 +114,7 @@ projects:
       - project:
         title: FRA Data Visualisation Server
         link: "http://fra.europa.eu/en/publications-and-resources/data-and-maps"
-        tagline: "A Web application for displaying statistics and visualizations. Implemented a survey data processing application with R from SPSS and XLS sources. The processing involved aggregating the data in target groups ,subsets and per country to calculate statistics. Implemented a visualization rendering engine using ggplot2 library (SVG, PDF, PNG) to display the statistics in various formats (map, charts etc). Implemented a webservice to serve the rendered visualization and integrate them inside a Drupal site. Used: R, custom visualization render engine, Drupal, Ajax"
+        tagline: "A Web application for displaying statistics and visualizations. Implemented a survey data processing application with R from SPSS and XLS sources. The processing involved aggregating the data in target groups ,subsets and per country to calculate statistics. Implemented a visualization rendering engine using ggplot2 library (SVG, PDF, PNG) to display the statistics in various formats (map, charts etc). Implemented a webservice to serve the rendered visualization and integrate them inside a Drupal site. Used: R, GGplot2, custom visualization render engine, Drupal, Ajax"
       - project:
         title: E-Prior
         link: "http://ec.europa.eu/dgs/informatics/supplier_portal/index_en.htm"
