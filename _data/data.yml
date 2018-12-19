@@ -1,6 +1,7 @@
 sidebar:
     # Site Settings
-    title: My Resume
+    title: Christos Gkoros Online Resume
+    description: Online CV created with Jekyll and Github pages
     url: 'http://gorosc.github.io'
     #about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
