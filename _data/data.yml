@@ -58,7 +58,7 @@ experiences:
       role: Software Engineer (Team Leader)
       time: February 2018 -
       company: European Dynamics
-      details: "Team leader of a four person software team with responsibilities of defining and distributing tasks, overseeing their proper execution according to best practices, ensuring quality of the software produced. Take technical decisions, proactively handle tricky problems and provide solutions. Participation in a development process with multiple teams (50+ people) where each team was responsible for a different module of the project. Some indicative technologies used: Java, J2EE, Spring Framework, AngularJS, Angular4, REST webservices"
+      details: "Team leader of a four person software team with responsibilities of defining and distributing tasks, overseeing their proper execution according to best practices, ensuring quality of the software produced. Responsibilities include taking technical decisions, proactively handle tricky problems and provide solutions. Participation in a development process with multiple teams (50+ people) where each team was responsible for a different module of the system. Some indicative technologies used: Java, J2EE, Spring Framework, AngularJS, Angular4, REST & SOAP webservices"
     - experience:
       role: Software Engineer
       time: February 2016 - February 2018
@@ -85,13 +85,13 @@ projects:
     intro: 
     projects:
       - project:
+        title: NIS e-filing
+        link: "#"
+        tagline: "A module of the Intellectual Property Management Platform, gateway of the system, responsible for account management and electronic form submission and payment. In addition, i contributed in the implementation of a Form Builder tool, with the ability to visually design complex forms, capable to produce XMLs based on an XSD schemas. Implemented a B2B (Business2Business) system according to enterprise integration patterns for bulk payments and submissions. Designed and implemented the integration with the Hong Kong Govermental Applications Payment Gateway (EGIS) handling credit cardd payments and reconsiliation. Designed and implemented an offline XML signing tool with a GUI and shell input utilizing x509 Certificates. Used: XML/XSD, Spring, Spring Boot, AngularJS, Angular4, Aspose library, REST, CXF, Camel, SOAP"
+      - project:
         title: Swiss EPPs Form Filling Module
         link: "#"
         tagline: "A module of the Electronic Public Procurement Platform, responsible for handling electronic form submission. Modified existing form handling tools in order to cover <a href=https://simap.ted.europa.eu/web/simap/standard-forms-for-public-procurement>TED_ESENDERS</a> XSD schemas and produce from the same input XMLs compliant to multiple XSD schemas. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library, CXF, SOAP"
-      - project:
-        title: NIS e-filing
-        link: "#"
-        tagline: "A module of the Intellectual Property Management Platform, gateway of the system, responsible for account management and electronic form submission and payment. In addition, i contributed in the implementation of a Form Builder tool, with the ability to visually design complex forms, capable to produce XMLs based on an XSD schemas. Implemented a B2B (Business2Business) system according to enterprise integration patterns for bulk payments and submissions. Designed and implemented the integration with the Hong Kong Govermental Applications. Designed and implemented an offline signing tool with a GUI and shell input. Payment Gateway (EGIS). Used: XML/XSD, Spring, Spring Boot, AngularJS, Angular4, Aspose library, REST, CXF, Camel, SOAP"
       - project:
         title: e-Justice
         link: "https://e-justice.europa.eu/home.do"
