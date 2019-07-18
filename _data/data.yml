@@ -46,7 +46,7 @@ sidebar:
           
 career-profile:
     title: Career Profile
-    text: 'Software engineer with strong skills in Architecture, Design and Development. Excellent communication skills. Proficient technical knowledge over a wide area of technologies. Experienced and eloquent with technical documents.'
+    text: 'Software engineer with strong skills in Architecture, Design and Development. Excellent communication skills. Proficient technical knowledge over a wide area of technologies. Experienced and eloquent with technical documents. Experienced in technical interviews and evaluation of candidates.'
     
 studies:
     - education:
@@ -58,7 +58,7 @@ experiences:
       role: Software Engineer (Team Leader)
       time: February 2018 -
       company: European Dynamics
-      details: "Team leader of a five person software team with responsibilities including:<br>Technical decisions<br>Defining and distributing tasks\nEnsuring quality of the software produced according to best practices and processes<br>Proactively handle tricky problems and provide solutions<br>Participation in a development process with multiple teams as the go to person for inbound and outbound communication and cooperation<br>Indicative technologies used:<br>Java, J2EE, Spring Framework, Spring Boot, AngularJS, Angular, REST & SOAP webservices, Apache Camel"
+      details: "Team leader of a five person software team with responsibilities including:<br>Technical decisions<br>Defining and delegating tasks\nEnsuring quality of the software produced according to best practices and processes<br>Proactively handle tricky problems and provide solutions<br>Participation in a development process with multiple teams as the go to person for inbound and outbound communication and cooperation<br>Indicative technologies used:<br>Java, J2EE, Spring Framework, Spring Boot, AngularJS, Angular, REST & SOAP webservices, Apache Camel"
     - experience:
       role: Software Engineer
       time: February 2016 - February 2018
@@ -86,12 +86,12 @@ projects:
     projects:
       - project:
         title: NIS e-filing
-        link: "#"
-        tagline: "A module of the Intellectual Property Management Platform, gateway of the system, responsible for account management and electronic form submission and payment. In addition, i contributed in the implementation of a Form Builder tool, with the ability to visually design complex forms, capable to produce XMLs based on an XSD schemas. Implemented a B2B (Business2Business) system according to enterprise integration patterns for bulk payments and submissions. Designed and implemented the integration with the Hong Kong Govermental Applications Payment Gateway (EGIS) handling credit cardd payments and reconsiliation. Designed and implemented an offline XML signing tool with a GUI and shell input utilizing x509 Certificates. Used: XML/XSD, Spring, Spring Boot, AngularJS, Angular4, Aspose library, REST, CXF, Camel, SOAP"
+        link: "https://efiling.ipd.gov.hk/nis-efiling/home/home.action"
+        tagline: "A module of the Hong Kong New Integrated System, part of a larger Intellectual Property Management Platform, gateway of the system and entrypoint for Hong Kong citizens and organizations, responsible for account management, electronic form submission and payments. Succesfully released on production and nursed during the steep switch from the old system for ~1k users. In the scope of the project we implemented a Form Builder tool, with the ability to visually design complex forms, capable to produce XMLs based on an XSD schemas. Implemented a B2B system according to enterprise integration patterns for bulk payments and submissions. Designed and implemented the integration with the Hong Kong Govermental Applications Payment Gateway (EGIS) handling credit card payments and performing daily reconsiliation. Designed and implemented an offline XML signing tool with a GUI and shell input utilizing x509 Certificates. Used: XML/XSD, Spring, Spring Boot, AngularJS, Angular4, Aspose library, REST, CXF, Camel, SOAP"
       - project:
         title: Swiss EPPs Form Filling Module
         link: "#"
-        tagline: "A module of the Electronic Public Procurement Platform, responsible for handling electronic form submission. Modified existing form handling tools in order to cover <a href=https://simap.ted.europa.eu/web/simap/standard-forms-for-public-procurement>TED_ESENDERS</a> XSD schemas and produce from the same input XMLs compliant to multiple XSD schemas. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library, CXF, SOAP"
+        tagline: "A module of a larger Electronic Public Procurement Platform, responsible for handling electronic form submission. Modified existing form handling tools in order to cover <a href=https://simap.ted.europa.eu/web/simap/standard-forms-for-public-procurement>TED_ESENDERS</a> XSD schemas and produce from the same input XMLs compliant to multiple XSD schemas. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library, CXF, SOAP"
       - project:
         title: e-Justice
         link: "https://e-justice.europa.eu/home.do"
@@ -136,7 +136,7 @@ skills:
           name: "True Multilingual applications with complex Web 2 (AJAX) interfaces"
           level: 98%
         - skill:
-          name: "Purposeful robust web services (REST, SOAP)"
+          name: "Web services design & implementation - REST (OpenApi), SOAP"
           level: 98%
         - skill:
           name: "Software architecture and algorithm design"
@@ -145,10 +145,13 @@ skills:
           name: "CI/CD pipeline design"
           level: 80%
         - skill:
+          name: "Enterprise Integration Solutions"
+          level: 80%
+        - skill:
           name: "Languages: Java, Typescript, Javascript, R"
           level: 85%
         - skill:
-          name: "Frameworks: Spring (Boot), Camel, Angular, AngularJS"
+          name: "Frameworks: Spring (Boot), Apache Camel, Apache CXF, Angular, AngularJS, Vue, Nativescript"
           level: 98%
         - skill:
           name: Other:J2EE, JQuery
