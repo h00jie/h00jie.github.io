@@ -1,21 +1,21 @@
 sidebar:
     # Site Settings
-    title: Christos Gkoros Online Resume
+    title: Panagiotis Chatzikonstantinou Online Resume
     description: Online CV created with Jekyll and Github pages
-    url: 'http://gorosc.github.io'
+    url: 'http://h00jie.github.io'
     #about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
-    name: Christos Gkoros
-    tagline: Software Engineer
+    name: Panagiotis Chatzikonstantinou
+    tagline: Full Stack Developer
     #pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: chr.goros@gmail.com
-    phone: 00306949444192
-    skype: cgoros
-    website: gorosc.github.io
-    linkedin: christos-gkoros
+    email: panos.hd@gmail.com
+    phone: 00306983750923
+    skype: panos.hd
+    website: h00jie.github.io
+    linkedin: panagiotis-chatzikonstantinou
     github: gorosc
     #twitter: '@webjeda'
 
@@ -26,9 +26,6 @@ sidebar:
         - language:
           idiom: English
           level: Professional
-        - language:
-          idiom: German
-          level: Adequent
         
     interests:
         - interest:
@@ -50,91 +47,83 @@ career-profile:
     
 studies:
     - education:
-      degree: Computer Engineering and Informatics
-      university: University of Patras
+      degree: Java Full Stack Developer
+      university: AFDEmp - Peoplecert
       
 experiences:
     - experience:
-      role: Software Engineer (Team Leader)
-      time: February 2018 -
-      company: European Dynamics
-      details: "Team leader of a five person software team with responsibilities including:<br>Technical decisions<br>Defining and delegating tasks\nEnsuring quality of the software produced according to best practices and processes<br>Proactively handle tricky problems and provide solutions<br>Participation in a development process with multiple teams as the go to person for inbound and outbound communication and cooperation<br>Indicative technologies used:<br>Java, J2EE, Spring Framework, Spring Boot, AngularJS, Angular, REST & SOAP webservices, Apache Camel"
+      role: PHP Full Stack Developer
+      time: November 2019 -
+      company: Computer Solutions S.A.
+      details: "Modernize legacy Hospital & Document Registration applications with the use of Clean Code, Clean Code, Design Patterns, OOP. Migrate PHP, Nginx native instalations to Docker Containers"
     - experience:
-      role: Software Engineer
-      time: February 2016 - February 2018
-      company: European Dynamics
-      details: "Part of a team handling multiple projects and a wide range of technologies in order to design and implement web-applications and to maintain the back-end of complex web based systems, mostly for the European Commision. Maintenance covered corrective and evolutive tasks. Participated in analysis of requirements, definition of technical solutions and implementation. Personal assignment to design and implement the team's CI/CD pipeline which was created using Jenkins and Docker. Some indicative technlogies: Java, Javascript, J2EE, Spring Framework, SOAP & REST webservices, Apache Camel, Docker, Drupal 7/8 (custom implentations utilizing the Drupal API), R (data processing and statistical analysis), SPARQLR queries"
+      role: Assistant IT Manager 
+      time: April 2018 - November 2018
+      company: Cavotagoo
+      details: "Responsibilities: Administering networks in a Windows Server/Workstation environment. Maintain hardware/software on 20+ computers and 8 copiers/printers. Providing daily support for computer network users .Installation of new server racks "
     - experience:
-      role: Full Stack Engineer
-      time: April 2015 - January 2016
-      company: Gov2u
-      details: "Full-Stack Developer on LAMP stack on multiple (10+ projects). Most of them were build with an opensource CMS (Joomla, Drupal mostly). IT Ops on servers (Linux CentOS) administered with both visual tools and shell. Setted up a multiple site PHPList grid, handled through a single point and run large volume e-mail campaigns."
+      role: Ecommerce Marketing Manager & Eshop Administrator 
+      time: August 2016 - February 2019
+      company:  Soccersport.gr
+      details: "Responsibilities: Site/Server Administrator (OpenCart, CPANEL), Inventory/stock update, Web development (html,css,mysql.php). Online markteting Google campaings,Facebook Ads,Instagram ads). Search engine optimisation. Content Creation (advertisment banners, product photos,advert photos) with tools such us Adobe Premiere&Photoshop"
     - experience:
-      role: Full Stack Engineer
-      time: January 2011 - December 2014
-      company: Gamebattles.gr
-      details: "Part of the Hellenic Starcraft 2 League support team and responsible for corrective and evolutive maintenance of the web portal (Joomla), implementing meaningful data processing and statistical analysis on complex metrics for the player base, supporting hardware and software infrastructure on live events."
-    - experience:
-      role: Software Engineer (Trainee)
-      time: January 2010 - August 2010
-      company: European Space Agency
-      details: "Software Engineer (Java), contributing in project GENSO (Global Educational Network for Satellite Operations) for the Agency's Education Unit. Main tasks were: Encapsulation with build scripts (ANT) of GENSO internals which were plain Java, inside the Netbeans Platform. Implementation of a new GUI on the Netbeans Platfrom. Unit Testing"
+      role: IT support Specialist for a project of SHELL MotorOil(Hellas) 
+      time: September 2014 - July 2016
+      company: Diebold Nixdorf, Warsaw, Poland
+      details: "Responsibilities: IT support on hardware and software(NAMOS POS system). Site(petrol stations) assistance from remote connection(VNC,RDP). Problem solving using Microsoft SQL Server. Troubleshhoting and resolving of hardware or software issues with use of provided toolset Technical network support WAN & LAN ,modems, routers, firewalls,switches Maintaining site's operability 24/7"
 
-projects:
-    title: Projects
-    intro: 
-    projects:
-      - project:
-        title: NIS e-filing
-        link: "https://efiling.ipd.gov.hk/nis-efiling/home/home.action"
-        tagline: "A module of the Hong Kong New Integrated System, part of a larger Intellectual Property Management Platform, gateway of the system and entrypoint for Hong Kong citizens and organizations, responsible for account management, electronic form submission and payments. Succesfully released on production and nursed during the steep switch from the old system for ~1k users. In the scope of the project we implemented a Form Builder tool, with the ability to visually design complex forms, capable to produce XMLs based on an XSD schemas. Implemented a B2B system according to enterprise integration patterns for bulk payments and submissions. Designed and implemented the integration with the Hong Kong Govermental Applications Payment Gateway (EGIS) handling credit card payments and performing daily reconsiliation. Designed and implemented an offline XML signing tool with a GUI and shell input utilizing x509 Certificates. Used: XML/XSD, Spring, Spring Boot, AngularJS, Angular4, Aspose library, REST, CXF, Camel, SOAP"
-      - project:
-        title: Swiss EPPs Form Filling Module
-        link: "#"
-        tagline: "A module of a larger Electronic Public Procurement Platform, responsible for handling electronic form submission. Modified existing form handling tools in order to cover <a href=https://simap.ted.europa.eu/web/simap/standard-forms-for-public-procurement>TED_ESENDERS</a> XSD schemas and produce from the same input XMLs compliant to multiple XSD schemas. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library, CXF, SOAP"
-      - project:
-        title: e-Justice
-        link: "https://e-justice.europa.eu/home.do"
-        tagline: "The Portal for e-Justice (legacy application) and additional satellite modules built on more recent technologies (Find A Lawyer, Geo Location, Court Law Database (CDB), Consumer Law Database (CLD), Case Law Identifier (ECLI), Machine Translations, Poetry Service). Containerized applications running on JBoss and Weblogic servers inside a container ecosystem. Additional middleware such as Autonomy IDOL were also containerized. The composition consisted of docker images of each application and upon launch produced a full working development/testing environmennt. Performed an analysis of how to migrate a legacy Struts in Action style application (Struts/Session/Cache reliant, Custom persistence framework) to Spring MVC, Data, Security and simplify it's architecture to meet modern standards. Performed maintenance tasks. Used: J2EE, Struts 1, Tiles, JSP, Spring, CXF, Jasper Reports, REST, SOAP, Autonomy IDOL, Jasper reports, XML/XSD, JBoss, Docker"
-      - project:
-        title: Interpol Mail Gateway
-        link: "#"
-        tagline: "An application used for polling e-mail accounts, process the inbox and forward the emails to different addresses according to business rules. Implemented according to Enterprise Integration Patterns. Used: Spring Boot, Camel Mail, Camel Restful, Docker"
-      - project:
-        title: ESTAT-SIMSTAT
-        link: "http://ec.europa.eu/eurostat/statistics-explained/index.php/SIMSTAT_-_exchange_of_microdata_on_intra-EU_trade"
-        tagline: "An Enterprise application, part of a larger system for data exchange between the EU countries Statistical Agencies. Implemented a container ecosystem with all components of European Commision network with which Simstat is connected (ESDEN, EDAMIS, EDIT, COMEXT, ECAS). The composition consisted of docker images of each application and upon launch produced a full working development/testing environmennt. Imlemented a new GUI acting as the gateway for the underlying system with Angular. Performed maintenance tasks. Used: J2EE, Spring, CXF, Camel, JMS, Angular, REST, Docker"
-      - project:
-        title: e-Cris
-        link: "http://ec.europa.eu/justice/criminal/european-e-justice/ecris/index_en.htm"
-        tagline: "An IT System for exchanging criminal records between the Member States of the European Union. Used: J2EE, Spring, CXF, Camel, SOAP, GWT, Docker"
-      - project:
-        title: FRA Portal
-        link: "http://fra.europa.eu/en"
-        tagline: "The Web Portal for the Fundamental Rights Agency. Implemented a solution to automatically create a seperate application inside the main application. The application covered the FRF (Fundamental Rights Forum) tha runs every two years. Thus the solution utilized Panels & Panel Variants, Contextual displays and Features in order to display a completely different view (drupal site) for each year event from the same code. Used: Drupal 7, custom modules, integration of external services, Features, embedded Sub-Sites, Contextual Displays"
-      - project:
-        title: FRA Data Visualisation Server
-        link: "http://fra.europa.eu/en/publications-and-resources/data-and-maps"
-        tagline: "A Web application for displaying statistics and visualizations. Implemented a survey data processing application with R from SPSS and XLS sources. The processing involved aggregating the data in target groups ,subsets and per country to calculate statistics. Implemented a visualization rendering engine using ggplot2 library (SVG, PDF, PNG) to display the statistics in various formats (map, charts etc). Implemented a webservice to serve the rendered visualization and integrate them inside a Drupal site. Used: R, GGplot2, custom visualization render engine, Drupal, Ajax"
-      - project:
-        title: E-Prior
-        link: "http://ec.europa.eu/dgs/informatics/supplier_portal/index_en.htm"
-        tagline: "Integration with the European Commission’s E-Supplier system. Performed continuous evolutive maintenance on the SOAP client to comply with the updated e-supplier system contract. Used: J2EE, Spring, Struts, SOAP"
-      - project:
-        title: World Bank e-Procurement Toolkit
-        link: "http://www.eprocurementtoolkit.org/"
-        tagline: "A Web portal for the World Bank E-procurement Toolkit. Used: Drupal 8, Twig, Automated Content Migration. Drupal 8 was at an early stage at that time, so in the scope of this project i implemented missing functionality to the <a href='https://www.drupal.org/project/phpexcel'>PHPExcel module</a>, an integration between Drupal 8 & the PHPExcel library for data export, which i contributed to the public repository of the module. Implemented an extension of the Migrate module to process bulk import of translations (apart from content), with the ability to rollback, track, and selectively update them"
-      - project:
-        title: N-Lex
-        link: "http://eur-lex.europa.eu/n-lex/"
-        tagline: "A Web application for that utilizes Drupal NEX Europa CMS and J2EE for retrieving national legislation from countries of the EU. Implemented an aggregated solution for a) automatically translating search parameterers from Thesaurus(SPARQL) queries and webservices b) Searching in multiple countries' databases concurrently and asynchronously. Used: Drupal Nex Europa (Custom Drupal platfrom developes by the European Comission), J2EE, Spring MVC, SOAP, Javascript (AJAX), Perl"
+# projects:
+#     title: Projects
+#     intro: 
+#     projects:
+#       - project:
+#         title: NIS e-filing
+#         link: "https://efiling.ipd.gov.hk/nis-efiling/home/home.action"
+#         tagline: "A module of the Hong Kong New Integrated System, part of a larger Intellectual Property Management Platform, gateway of the system and entrypoint for Hong Kong citizens and organizations, responsible for account management, electronic form submission and payments. Succesfully released on production and nursed during the steep switch from the old system for ~1k users. In the scope of the project we implemented a Form Builder tool, with the ability to visually design complex forms, capable to produce XMLs based on an XSD schemas. Implemented a B2B system according to enterprise integration patterns for bulk payments and submissions. Designed and implemented the integration with the Hong Kong Govermental Applications Payment Gateway (EGIS) handling credit card payments and performing daily reconsiliation. Designed and implemented an offline XML signing tool with a GUI and shell input utilizing x509 Certificates. Used: XML/XSD, Spring, Spring Boot, AngularJS, Angular4, Aspose library, REST, CXF, Camel, SOAP"
+#       - project:
+#         title: Swiss EPPs Form Filling Module
+#         link: "#"
+#         tagline: "A module of a larger Electronic Public Procurement Platform, responsible for handling electronic form submission. Modified existing form handling tools in order to cover <a href=https://simap.ted.europa.eu/web/simap/standard-forms-for-public-procurement>TED_ESENDERS</a> XSD schemas and produce from the same input XMLs compliant to multiple XSD schemas. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library, CXF, SOAP"
+#       - project:
+#         title: e-Justice
+#         link: "https://e-justice.europa.eu/home.do"
+#         tagline: "The Portal for e-Justice (legacy application) and additional satellite modules built on more recent technologies (Find A Lawyer, Geo Location, Court Law Database (CDB), Consumer Law Database (CLD), Case Law Identifier (ECLI), Machine Translations, Poetry Service). Containerized applications running on JBoss and Weblogic servers inside a container ecosystem. Additional middleware such as Autonomy IDOL were also containerized. The composition consisted of docker images of each application and upon launch produced a full working development/testing environmennt. Performed an analysis of how to migrate a legacy Struts in Action style application (Struts/Session/Cache reliant, Custom persistence framework) to Spring MVC, Data, Security and simplify it's architecture to meet modern standards. Performed maintenance tasks. Used: J2EE, Struts 1, Tiles, JSP, Spring, CXF, Jasper Reports, REST, SOAP, Autonomy IDOL, Jasper reports, XML/XSD, JBoss, Docker"
+#       - project:
+#         title: Interpol Mail Gateway
+#         link: "#"
+#         tagline: "An application used for polling e-mail accounts, process the inbox and forward the emails to different addresses according to business rules. Implemented according to Enterprise Integration Patterns. Used: Spring Boot, Camel Mail, Camel Restful, Docker"
+#       - project:
+#         title: ESTAT-SIMSTAT
+#         link: "http://ec.europa.eu/eurostat/statistics-explained/index.php/SIMSTAT_-_exchange_of_microdata_on_intra-EU_trade"
+#         tagline: "An Enterprise application, part of a larger system for data exchange between the EU countries Statistical Agencies. Implemented a container ecosystem with all components of European Commision network with which Simstat is connected (ESDEN, EDAMIS, EDIT, COMEXT, ECAS). The composition consisted of docker images of each application and upon launch produced a full working development/testing environmennt. Imlemented a new GUI acting as the gateway for the underlying system with Angular. Performed maintenance tasks. Used: J2EE, Spring, CXF, Camel, JMS, Angular, REST, Docker"
+#       - project:
+#         title: e-Cris
+#         link: "http://ec.europa.eu/justice/criminal/european-e-justice/ecris/index_en.htm"
+#         tagline: "An IT System for exchanging criminal records between the Member States of the European Union. Used: J2EE, Spring, CXF, Camel, SOAP, GWT, Docker"
+#       - project:
+#         title: FRA Portal
+#         link: "http://fra.europa.eu/en"
+#         tagline: "The Web Portal for the Fundamental Rights Agency. Implemented a solution to automatically create a seperate application inside the main application. The application covered the FRF (Fundamental Rights Forum) tha runs every two years. Thus the solution utilized Panels & Panel Variants, Contextual displays and Features in order to display a completely different view (drupal site) for each year event from the same code. Used: Drupal 7, custom modules, integration of external services, Features, embedded Sub-Sites, Contextual Displays"
+#       - project:
+#         title: FRA Data Visualisation Server
+#         link: "http://fra.europa.eu/en/publications-and-resources/data-and-maps"
+#         tagline: "A Web application for displaying statistics and visualizations. Implemented a survey data processing application with R from SPSS and XLS sources. The processing involved aggregating the data in target groups ,subsets and per country to calculate statistics. Implemented a visualization rendering engine using ggplot2 library (SVG, PDF, PNG) to display the statistics in various formats (map, charts etc). Implemented a webservice to serve the rendered visualization and integrate them inside a Drupal site. Used: R, GGplot2, custom visualization render engine, Drupal, Ajax"
+#       - project:
+#         title: E-Prior
+#         link: "http://ec.europa.eu/dgs/informatics/supplier_portal/index_en.htm"
+#         tagline: "Integration with the European Commission’s E-Supplier system. Performed continuous evolutive maintenance on the SOAP client to comply with the updated e-supplier system contract. Used: J2EE, Spring, Struts, SOAP"
+#       - project:
+#         title: World Bank e-Procurement Toolkit
+#         link: "http://www.eprocurementtoolkit.org/"
+#         tagline: "A Web portal for the World Bank E-procurement Toolkit. Used: Drupal 8, Twig, Automated Content Migration. Drupal 8 was at an early stage at that time, so in the scope of this project i implemented missing functionality to the <a href='https://www.drupal.org/project/phpexcel'>PHPExcel module</a>, an integration between Drupal 8 & the PHPExcel library for data export, which i contributed to the public repository of the module. Implemented an extension of the Migrate module to process bulk import of translations (apart from content), with the ability to rollback, track, and selectively update them"
+#       - project:
+#         title: N-Lex
+#         link: "http://eur-lex.europa.eu/n-lex/"
+#         tagline: "A Web application for that utilizes Drupal NEX Europa CMS and J2EE for retrieving national legislation from countries of the EU. Implemented an aggregated solution for a) automatically translating search parameterers from Thesaurus(SPARQL) queries and webservices b) Searching in multiple countries' databases concurrently and asynchronously. Used: Drupal Nex Europa (Custom Drupal platfrom developes by the European Comission), J2EE, Spring MVC, SOAP, Javascript (AJAX), Perl"
 
 skills:
     title: Technical expertise
     skills:
-        - skill:
-          name: "True Multilingual applications with complex Web 2 (AJAX) interfaces"
-          level: 98%
         - skill:
           name: "Web services design & implementation - REST (OpenApi), SOAP"
           level: 98%
@@ -142,27 +131,21 @@ skills:
           name: "Software architecture and algorithm design"
           level: 80%
         - skill:
-          name: "CI/CD pipeline design"
-          level: 80%
-        - skill:
-          name: "Enterprise Integration Solutions"
-          level: 80%
-        - skill:
-          name: "Languages: Java, Typescript, Javascript, R"
+          name: "Languages: Java, Javascript, PHP"
           level: 85%
         - skill:
-          name: "Frameworks: Spring (Boot), Apache Camel, Apache CXF, Angular, AngularJS, Vue, Nativescript"
+          name: "Frameworks: Symfony, Laravel, Express, ReactJs, Spring (Boot)"
           level: 98%
         - skill:
-          name: Other:J2EE, JQuery
+          name: Other:JQuery
           level: 98%
         - skill:
-          name: "Middleware: Weblogic, JBoss, Tomcat, Idol, Varnish, Apache HTTP"
+          name: "Middleware: Nginx, Tomcat, Apache HTTP, Traefik"
           level: 98%
         - skill:
-          name: "DevOps: Docker, Vagrant, Linux, Jenkins, Sonarqube"
+          name: "DevOps: Docker"
           level: 98%
 
 
 footer: 
-    text: 'This resume was created with Jekyll and Github Pages. You can find the source code @ <a href="https://github.com/Gorosc/gorosc.github.io" target="_blank">https://github.com/Gorosc/gorosc.github.io</a> <br> Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
+    text: 'This resume was created with Jekyll and Github Pages. You can find the source code @ <a href="https://github.com/Gorosc/gorosc.github.io" target="_blank">https://github.com/h00jje/h00jie.github.io</a> <br> Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
