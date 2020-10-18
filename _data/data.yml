@@ -25,21 +25,7 @@ sidebar:
           level: Native
         - language:
           idiom: English
-          level: Professional
-        
-    interests:
-        - interest:
-          item: 12-Factor App
-          link: https://12factor.net/
-        - interest:
-          item: Microservices Architecture
-          link:
-        - interest:
-          item: Software Quality Standards
-          link:
-        - interest:
-          item: Blockchain
-          link: 
+          level: Adequent
           
 career-profile:
     title: Career Profile
