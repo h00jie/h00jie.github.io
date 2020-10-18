@@ -65,61 +65,12 @@ experiences:
       role: Ecommerce Marketing Manager & Eshop Administrator 
       time: August 2016 - February 2019
       company:  Soccersport.gr
-      details: "Responsibilities: \nSite/Server Administrator (OpenCart, CPANEL) \nInventory/stock update \nWeb development (html,css,mysql.php). \nOnline markteting Google campaings,Facebook Ads,Instagram ads). \nSearch engine optimisation. \nContent Creation (advertisment banners, product photos,advert photos) with tools such us Adobe Premiere&Photoshop"
+      details: "Responsibilities: <br>Site/Server Administrator (OpenCart, CPANEL) \nInventory/stock update \nWeb development (html,css,mysql.php). \nOnline markteting Google campaings,Facebook Ads,Instagram ads). \nSearch engine optimisation. \nContent Creation (advertisment banners, product photos,advert photos) with tools such us Adobe Premiere&Photoshop"
     - experience:
       role: IT support Specialist for a project of SHELL MotorOil(Hellas) 
       time: September 2014 - July 2016
       company: Diebold Nixdorf, Warsaw, Poland
       details: "Responsibilities: IT support on hardware and software(NAMOS POS system). Site(petrol stations) assistance from remote connection(VNC,RDP). Problem solving using Microsoft SQL Server. Troubleshhoting and resolving of hardware or software issues with use of provided toolset Technical network support WAN & LAN ,modems, routers, firewalls,switches Maintaining site's operability 24/7"
-
-# projects:
-#     title: Projects
-#     intro: 
-#     projects:
-#       - project:
-#         title: NIS e-filing
-#         link: "https://efiling.ipd.gov.hk/nis-efiling/home/home.action"
-#         tagline: "A module of the Hong Kong New Integrated System, part of a larger Intellectual Property Management Platform, gateway of the system and entrypoint for Hong Kong citizens and organizations, responsible for account management, electronic form submission and payments. Succesfully released on production and nursed during the steep switch from the old system for ~1k users. In the scope of the project we implemented a Form Builder tool, with the ability to visually design complex forms, capable to produce XMLs based on an XSD schemas. Implemented a B2B system according to enterprise integration patterns for bulk payments and submissions. Designed and implemented the integration with the Hong Kong Govermental Applications Payment Gateway (EGIS) handling credit card payments and performing daily reconsiliation. Designed and implemented an offline XML signing tool with a GUI and shell input utilizing x509 Certificates. Used: XML/XSD, Spring, Spring Boot, AngularJS, Angular4, Aspose library, REST, CXF, Camel, SOAP"
-#       - project:
-#         title: Swiss EPPs Form Filling Module
-#         link: "#"
-#         tagline: "A module of a larger Electronic Public Procurement Platform, responsible for handling electronic form submission. Modified existing form handling tools in order to cover <a href=https://simap.ted.europa.eu/web/simap/standard-forms-for-public-procurement>TED_ESENDERS</a> XSD schemas and produce from the same input XMLs compliant to multiple XSD schemas. Used: XML/XSD, Spring, AngularJS, Angular4, Aspose library, CXF, SOAP"
-#       - project:
-#         title: e-Justice
-#         link: "https://e-justice.europa.eu/home.do"
-#         tagline: "The Portal for e-Justice (legacy application) and additional satellite modules built on more recent technologies (Find A Lawyer, Geo Location, Court Law Database (CDB), Consumer Law Database (CLD), Case Law Identifier (ECLI), Machine Translations, Poetry Service). Containerized applications running on JBoss and Weblogic servers inside a container ecosystem. Additional middleware such as Autonomy IDOL were also containerized. The composition consisted of docker images of each application and upon launch produced a full working development/testing environmennt. Performed an analysis of how to migrate a legacy Struts in Action style application (Struts/Session/Cache reliant, Custom persistence framework) to Spring MVC, Data, Security and simplify it's architecture to meet modern standards. Performed maintenance tasks. Used: J2EE, Struts 1, Tiles, JSP, Spring, CXF, Jasper Reports, REST, SOAP, Autonomy IDOL, Jasper reports, XML/XSD, JBoss, Docker"
-#       - project:
-#         title: Interpol Mail Gateway
-#         link: "#"
-#         tagline: "An application used for polling e-mail accounts, process the inbox and forward the emails to different addresses according to business rules. Implemented according to Enterprise Integration Patterns. Used: Spring Boot, Camel Mail, Camel Restful, Docker"
-#       - project:
-#         title: ESTAT-SIMSTAT
-#         link: "http://ec.europa.eu/eurostat/statistics-explained/index.php/SIMSTAT_-_exchange_of_microdata_on_intra-EU_trade"
-#         tagline: "An Enterprise application, part of a larger system for data exchange between the EU countries Statistical Agencies. Implemented a container ecosystem with all components of European Commision network with which Simstat is connected (ESDEN, EDAMIS, EDIT, COMEXT, ECAS). The composition consisted of docker images of each application and upon launch produced a full working development/testing environmennt. Imlemented a new GUI acting as the gateway for the underlying system with Angular. Performed maintenance tasks. Used: J2EE, Spring, CXF, Camel, JMS, Angular, REST, Docker"
-#       - project:
-#         title: e-Cris
-#         link: "http://ec.europa.eu/justice/criminal/european-e-justice/ecris/index_en.htm"
-#         tagline: "An IT System for exchanging criminal records between the Member States of the European Union. Used: J2EE, Spring, CXF, Camel, SOAP, GWT, Docker"
-#       - project:
-#         title: FRA Portal
-#         link: "http://fra.europa.eu/en"
-#         tagline: "The Web Portal for the Fundamental Rights Agency. Implemented a solution to automatically create a seperate application inside the main application. The application covered the FRF (Fundamental Rights Forum) tha runs every two years. Thus the solution utilized Panels & Panel Variants, Contextual displays and Features in order to display a completely different view (drupal site) for each year event from the same code. Used: Drupal 7, custom modules, integration of external services, Features, embedded Sub-Sites, Contextual Displays"
-#       - project:
-#         title: FRA Data Visualisation Server
-#         link: "http://fra.europa.eu/en/publications-and-resources/data-and-maps"
-#         tagline: "A Web application for displaying statistics and visualizations. Implemented a survey data processing application with R from SPSS and XLS sources. The processing involved aggregating the data in target groups ,subsets and per country to calculate statistics. Implemented a visualization rendering engine using ggplot2 library (SVG, PDF, PNG) to display the statistics in various formats (map, charts etc). Implemented a webservice to serve the rendered visualization and integrate them inside a Drupal site. Used: R, GGplot2, custom visualization render engine, Drupal, Ajax"
-#       - project:
-#         title: E-Prior
-#         link: "http://ec.europa.eu/dgs/informatics/supplier_portal/index_en.htm"
-#         tagline: "Integration with the European Commission’s E-Supplier system. Performed continuous evolutive maintenance on the SOAP client to comply with the updated e-supplier system contract. Used: J2EE, Spring, Struts, SOAP"
-#       - project:
-#         title: World Bank e-Procurement Toolkit
-#         link: "http://www.eprocurementtoolkit.org/"
-#         tagline: "A Web portal for the World Bank E-procurement Toolkit. Used: Drupal 8, Twig, Automated Content Migration. Drupal 8 was at an early stage at that time, so in the scope of this project i implemented missing functionality to the <a href='https://www.drupal.org/project/phpexcel'>PHPExcel module</a>, an integration between Drupal 8 & the PHPExcel library for data export, which i contributed to the public repository of the module. Implemented an extension of the Migrate module to process bulk import of translations (apart from content), with the ability to rollback, track, and selectively update them"
-#       - project:
-#         title: N-Lex
-#         link: "http://eur-lex.europa.eu/n-lex/"
-#         tagline: "A Web application for that utilizes Drupal NEX Europa CMS and J2EE for retrieving national legislation from countries of the EU. Implemented an aggregated solution for a) automatically translating search parameterers from Thesaurus(SPARQL) queries and webservices b) Searching in multiple countries' databases concurrently and asynchronously. Used: Drupal Nex Europa (Custom Drupal platfrom developes by the European Comission), J2EE, Spring MVC, SOAP, Javascript (AJAX), Perl"
 
 skills:
     title: Technical expertise
