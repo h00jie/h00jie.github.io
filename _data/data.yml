@@ -62,11 +62,8 @@ skills:
     title: Technical expertise
     skills:
         - skill:
-          name: "Web services design & implementation - REST (OpenApi), SOAP"
+          name: "Web services design & implementation - REST"
           level: 98%
-        - skill:
-          name: "Software architecture and algorithm design"
-          level: 80%
         - skill:
           name: "Languages: Java, Javascript, PHP"
           level: 85%
