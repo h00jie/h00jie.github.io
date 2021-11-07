@@ -38,8 +38,13 @@ studies:
       
 experiences:
     - experience:
+      role: Software Engineer
+      time: May 2021 - Now
+      company: TGN Solutions
+      details: "Development of a Data Mining/Analytics software and REST API's for serving the data"
+    - experience:
       role: PHP Full Stack Developer
-      time: November 2019 -
+      time: November 2019 - May  2021
       company: Computer Solutions S.A.
       details: "Modernize legacy Hospital & Document Registration applications with the use of Clean Code, Clean Code, Design Patterns, OOP. <br>Migrate PHP, Nginx native instalations to Docker Containers"
     - experience:
