@@ -38,8 +38,13 @@ studies:
       
 experiences:
     - experience:
+      role: PHP Full Stack Developer & Devops
+      time: February 2022 - now
+      company: Computer Solutions S.A.
+      details: "Modernize legacy Hospital & Document Registration applications by transfering the old codebase to a custom Symphony framework"
+    - experience:
       role: Software Engineer
-      time: May 2021 - Now
+      time: May 2021 - January 2022
       company: TGN Solutions
       details: "Development of a Data Mining/Analytics software and REST API's for serving the data"
     - experience:
