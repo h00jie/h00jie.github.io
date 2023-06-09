@@ -75,11 +75,14 @@ skills:
           name: "Web services design & implementation - REST"
           level: 98%
         - skill:
-          name: "Languages: Java, Javascript, PHP"
+          name: "Languages: Java, Javascript, PHP, Python"
           level: 85%
         - skill:
-          name: "Frameworks: Symfony, Laravel, Express, ReactJs, Spring (Boot)"
+          name: "Frameworks: Symfony, Laravel, Express, ReactJs, Vue.js, Spring Boot"
           level: 98%
+        - skill:
+          name: "Automation tools: Ansible"
+          level: 98%  
         - skill:
           name: Other:JQuery
           level: 98%
@@ -87,7 +90,7 @@ skills:
           name: "Middleware: Nginx, Tomcat, Apache HTTP, Traefik"
           level: 98%
         - skill:
-          name: "DevOps: Docker"
+          name: "DevOps: Docker, Podman"
           level: 98%
 
 
