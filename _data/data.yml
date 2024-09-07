@@ -55,7 +55,7 @@ experiences:
       company: Computer Solutions S.A.
       details: "<ul>
         <li>Modernize legacy Hospital administration & Document Registration applications by transfering the old codebase to a custom Symfony framework</li>
-        <li><ul style=\"list-style-type:none\">
+        <li><ul style=\"padding-left: 5px;\">
         <li style=\"list-style-type: none;\">Designed and implemented core functionality for a project that monitors toddlers in hospitals using Raspberry Pi devices, integrating camera, temperature, luminosity, and air quality sensors.</li>
         <li style=\"list-style-type: none;\">Developed and deployed FastAPI-based applications on each Raspberry Pi node, responsible for parsing sensor readings and triggering alerts to hospital nurses when thresholds were exceeded.</li>
         <li style=\"list-style-type: none;\">Utilized TensorFlow pose estimation to process video feeds locally on the Raspberry Pi, analyzing toddler movements for potential health concerns.</li>
