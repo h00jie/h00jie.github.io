@@ -98,7 +98,7 @@ skills:
           name: "Languages: Java, Javascript, PHP, Python"
           level: 85%
         - skill:
-          name: "Frameworks: Symfony, Laravel, Express, ReactJs, Vue.js, Spring Boot"
+          name: "Frameworks: Symfony, Laravel, Express, ReactJs, Vue.js, Spring Boot, Grails"
           level: 98%
         - skill:
           name: "Automation tools: Ansible"
@@ -111,6 +111,12 @@ skills:
           level: 98%
         - skill:
           name: "DevOps: Docker, Podman"
+          level: 98%
+       - skill:
+          name: "Sysadmin: Proxmox OS"
+          level: 98%
+         - skill:
+          name: "Network Adminstration: Mikrotik RouterOS"
           level: 98%
 
 
