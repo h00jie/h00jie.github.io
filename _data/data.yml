@@ -55,12 +55,12 @@ experiences:
       company: Computer Solutions S.A.
       details: "<ul>
         <li>Modernize legacy Hospital administration & Document Registration applications by transfering the old codebase to a custom Symfony framework</li>
-        <li><ul>
-        <li>Designed and implemented core functionality for a project that monitors toddlers in hospitals using Raspberry Pi devices, integrating camera, temperature, luminosity, and air quality sensors.</li>
-        <li>Developed and deployed FastAPI-based applications on each Raspberry Pi node, responsible for parsing sensor readings and triggering alerts to hospital nurses when thresholds were exceeded.</li>
-        <li>Utilized TensorFlow pose estimation to process video feeds locally on the Raspberry Pi, analyzing toddler movements for potential health concerns.</li>
-        <li>Created a reliable alerting system to notify specific recipients (nurses) in real time, ensuring rapid response to any anomalies in sensor data or movement patterns.</li>
-        <li>Worked closely with hospital staff to customize the monitoring system for practical usage, improving care quality and early detection of potential issues.</li>
+        <li><ul style=\"list-style-type:none\">
+        <li style=\"list-style-type: none;\">Designed and implemented core functionality for a project that monitors toddlers in hospitals using Raspberry Pi devices, integrating camera, temperature, luminosity, and air quality sensors.</li>
+        <li style=\"list-style-type: none;\">Developed and deployed FastAPI-based applications on each Raspberry Pi node, responsible for parsing sensor readings and triggering alerts to hospital nurses when thresholds were exceeded.</li>
+        <li style=\"list-style-type: none;\">Utilized TensorFlow pose estimation to process video feeds locally on the Raspberry Pi, analyzing toddler movements for potential health concerns.</li>
+        <li style=\"list-style-type: none;\">Created a reliable alerting system to notify specific recipients (nurses) in real time, ensuring rapid response to any anomalies in sensor data or movement patterns.</li>
+        <li style=\"list-style-type: none;\">Worked closely with hospital staff to customize the monitoring system for practical usage, improving care quality and early detection of potential issues.</li>
         </ul></li>
         </ul>"
     - experience:
