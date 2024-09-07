@@ -27,82 +27,82 @@ sidebar:
           idiom: English
           level: Adequent
           
-career-profile:
-    title: Career Profile
-    text: 'Experienced Software Engineer with a demonstrated history of building and optimizing web applications and data analytics flows across multiple business domains, including healthcare, insurance, and marketing. Proficient in multiple programming languages such as Java, Python, and PHP, with a strong focus on delivering scalable and efficient solutions. Skilled in agile methodologies and effective collaboration within fast-paced, high-demand environments, ensuring high-quality results and continuous improvement.'
-      
-experiences:
-    - experience:
-      role: Software Engineer
-      time: September 2023 - now
-      company: Pricefox.gr
-      details: "<ul>
-          <li>Developed and maintained a price comparison platform for insurance products, including vehicles, life, and property (houses and businesses), as well as energy products, using Grails and Spring Boot frameworks.</li>
-          <li>Utilized AWS services (e.g., EC2, S3, RDS) for scalable and secure infrastructure to host and manage the platform, ensuring high availability and fault tolerance.</li>
-          <li>Integrated various third-party APIs and internal services to compare offerings from different insurance and energy providers.</li>
-          <li>Optimized the application for performance and scalability, handling large volumes of user traffic and data processing.</li>
-          <li>Collaborated with cross-functional teams, including product managers and front-end developers, to enhance the platform's features and improve user experience.</li>
-          <li>Implemented security best practices and conducted regular code reviews to ensure high standards of code quality and application security.</li>
-        </ul>"
-    - experience:
-      role: Full Stack Developer & DevOps Engineer
-      time: February 2022 - August 2023
-      company: Computer Solutions S.A.
-      details: "<ul>
-        <li>Modernize legacy Hospital administration & Document Registration applications by transfering the old codebase to a custom Symfony framework</li>
-        <li><ul style=\"padding-left: 0;\">
-        <li style=\"list-style-type: none;\">Designed and implemented core functionality for a project aimed at preventing Sudden Infant Death Syndrome (SIDS) by monitoring toddlers in hospitals using Raspberry Pi devices. The system integrated camera, temperature, luminosity, and air quality sensors.</li>
-        <li style=\"list-style-type: none;\">Developed FastAPI-based applications on each Raspberry Pi node to parse sensor readings and analyze toddler movements using TensorFlow pose estimation in real-time.</li>
-        <li style=\"list-style-type: none;\">Streamed all sensor data to master nodes via RabbitMQ, which handled monitoring and triggered alerts to hospital nurses when sensor readings or movement patterns exceeded predefined thresholds, ensuring immediate responses to potential health risks.</li>
-        <li style=\"list-style-type: none;\">Collaborated with hospital staff to customize the system, improving early detection of health issues and enhancing patient care quality.</li>
-        </ul></li>
-        </ul>"
-    - experience:
-      role: Backend Software Engineer
-      time: May 2021 - January 2022
-      company: TGN Solutions
-      details: "Development of a Data Mining/Analytics software and REST API's for serving the data"
-    - experience:
-      role: Full Stack Developer
-      time: November 2019 - May  2021
-      company: Computer Solutions S.A.
-      details: "Modernize legacy Hospital administration & Document Registration applications with the use of Clean Code, Clean Code, Design Patterns, OOP. <br>Migrate PHP, Nginx native instalations to Docker Containers"
-    - experience:
-      role: Assistant IT Manager 
-      time: April 2018 - November 2018
-      company: Cavotagoo
-      details: "Administering networks in a Windows Server/Workstation environment. <br>Maintain hardware/software on 20+ computers and 8 copiers/printers. <br>Providing daily support for computer network users. <br>Installation of new server racks"
-    - experience:
-      role: Ecommerce Manager 
-      time: August 2016 - February 2019
-      company:  Soccersport.gr
-      details: "Site/Server Administrator (OpenCart, CPANEL). <br>Inventory/stock update. <br>Web development (html,css,mysql.php). <br>Online markteting Google campaings,Facebook Ads,Instagram ads). <br>Search engine optimisation. <br>Content Creation (advertisment banners, product photos,advert photos) with tools such us Adobe Premiere&Photoshop"
-    - experience:
-      role: IT Support Specialist 
-      time: September 2014 - July 2016
-      company: Diebold Nixdorf, Warsaw, Poland
-      details: "IT support on hardware and software(NAMOS POS system). <br>Site(petrol stations) assistance from remote connection(VNC,RDP). <br>Problem solving using Microsoft SQL Server. <br>Troubleshhoting and resolving of hardware or software issues with use of provided toolset Technical network support WAN & LAN ,modems, routers, firewalls,switches Maintaining site's operability 24/7"
+    career-profile:
+        title: Career Profile
+        text: 'Experienced Software Engineer with a demonstrated history of building and optimizing web applications and data analytics flows across multiple business domains, including healthcare, insurance, and marketing. Proficient in multiple programming languages such as Java, Python, and PHP, with a strong focus on delivering scalable and efficient solutions. Skilled in agile methodologies and effective collaboration within fast-paced, high-demand environments, ensuring high-quality results and continuous improvement.'
+          
+    experiences:
+        - experience:
+          role: Software Engineer
+          time: September 2023 - now
+          company: Pricefox.gr
+          details: "<ul>
+              <li>Developed and maintained a price comparison platform for insurance products, including vehicles, life, and property (houses and businesses), as well as energy products, using Grails and Spring Boot frameworks.</li>
+              <li>Utilized AWS services (e.g., EC2, S3, RDS) for scalable and secure infrastructure to host and manage the platform, ensuring high availability and fault tolerance.</li>
+              <li>Integrated various third-party APIs and internal services to compare offerings from different insurance and energy providers.</li>
+              <li>Optimized the application for performance and scalability, handling large volumes of user traffic and data processing.</li>
+              <li>Collaborated with cross-functional teams, including product managers and front-end developers, to enhance the platform's features and improve user experience.</li>
+              <li>Implemented security best practices and conducted regular code reviews to ensure high standards of code quality and application security.</li>
+            </ul>"
+        - experience:
+          role: Full Stack Developer & DevOps Engineer
+          time: February 2022 - August 2023
+          company: Computer Solutions S.A.
+          details: "<ul>
+            <li>Modernize legacy Hospital administration & Document Registration applications by transfering the old codebase to a custom Symfony framework</li>
+            <li><ul id=\"sids\" style=\"padding-left: 0;\">
+            <li style=\"list-style-type: none;\">Designed and implemented core functionality for a project aimed at preventing Sudden Infant Death Syndrome (SIDS) by monitoring toddlers in hospitals using Raspberry Pi devices. The system integrated camera, temperature, luminosity, and air quality sensors.</li>
+            <li style=\"list-style-type: none;\">Developed FastAPI-based applications on each Raspberry Pi node to parse sensor readings and analyze toddler movements using TensorFlow pose estimation in real-time.</li>
+            <li style=\"list-style-type: none;\">Streamed all sensor data to master nodes via RabbitMQ, which handled monitoring and triggered alerts to hospital nurses when sensor readings or movement patterns exceeded predefined thresholds, ensuring immediate responses to potential health risks.</li>
+            <li style=\"list-style-type: none;\">Collaborated with hospital staff to customize the system, improving early detection of health issues and enhancing patient care quality.</li>
+            </ul></li>
+            </ul>"
+        - experience:
+          role: Backend Software Engineer
+          time: May 2021 - January 2022
+          company: TGN Solutions
+          details: "Development of a Data Mining/Analytics software and REST API's for serving the data"
+        - experience:
+          role: Full Stack Developer
+          time: November 2019 - May  2021
+          company: Computer Solutions S.A.
+          details: "Modernize legacy Hospital administration & Document Registration applications with the use of Clean Code, Design Patterns, OOP. <br>Migrate PHP, Nginx native instalations to Docker Containers"
+        - experience:
+          role: Assistant IT Manager 
+          time: April 2018 - November 2018
+          company: Cavotagoo
+          details: "Administering networks in a Windows Server/Workstation environment. <br>Maintain hardware/software on 20+ computers and 8 copiers/printers. <br>Providing daily support for computer network users. <br>Installation of new server racks"
+        - experience:
+          role: Ecommerce Manager 
+          time: August 2016 - February 2019
+          company:  Soccersport.gr
+          details: "Site/Server Administrator (OpenCart, CPANEL). <br>Inventory/stock update. <br>Web development (html,css,mysql.php). <br>Online markteting Google campaings,Facebook Ads,Instagram ads). <br>Search engine optimisation. <br>Content Creation (advertisment banners, product photos,advert photos) with tools such us Adobe Premiere&Photoshop"
+        - experience:
+          role: IT Support Specialist 
+          time: September 2014 - July 2016
+          company: Diebold Nixdorf, Warsaw, Poland
+          details: "IT support on hardware and software(NAMOS POS system). <br>Site(petrol stations) assistance from remote connection(VNC,RDP). <br>Problem solving using Microsoft SQL Server. <br>Troubleshhoting and resolving of hardware or software issues with use of provided toolset Technical network support WAN & LAN ,modems, routers, firewalls,switches Maintaining site's operability 24/7"
 
-skills:
-    title: Technical expertise
     skills:
-        - skill:
-          name: "Languages: Java,  Python, PHP, Javascript"
-          level: 85%
-        - skill:
-          name: "Frameworks: Symfony, Laravel, React.js, Vue.js, Spring Boot, Grails"
-          level: 98%
-        - skill:
-          name: "Cloud & Automation Tools: AWS, Docker, Podman, Ansible"
-          level: 98%
-        - skill:
-          name: "Middleware: Nginx, Tomcat, Traefik, Apache HTTP"
-          level: 98%
-        - skill:
-          name: "DevOps: CI/CD, GitHub Actions"
-          level: 98%
-        - skill:
-          name: "Container Orchestration: Kubernetes (Entry Level)"
-          level: 98%
+        title: Technical expertise
+        skills:
+            - skill:
+              name: "Languages: Java,  Python, PHP, Javascript"
+              level: 85%
+            - skill:
+              name: "Frameworks: Symfony, Laravel, React.js, Vue.js, Spring Boot, Grails"
+              level: 98%
+            - skill:
+              name: "Cloud & Automation Tools: AWS, Docker, Podman, Ansible"
+              level: 98%
+            - skill:
+              name: "Middleware: Nginx, Tomcat, Traefik, Apache HTTP"
+              level: 98%
+            - skill:
+              name: "DevOps: CI/CD, GitHub Actions"
+              level: 98%
+            - skill:
+              name: "Container Orchestration: Kubernetes (Entry Level)"
+              level: 98%
 footer: 
     text: 'This resume was created with Jekyll and Github Pages. You can find the source code @ <a href="https://github.com/Gorosc/gorosc.github.io" target="_blank">https://github.com/h00jje/h00jie.github.io</a> <br> Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
