@@ -42,7 +42,7 @@ experiences:
       time: September 2023 - now
       company: Pricefox.gr
       details: "<ul>
-    <li>Developed and maintained a price comparison platform for insurance (car, truck, life) and energy products using Grails and Spring Boot frameworks.</li>
+    <li>Developed and maintained a price comparison platform for insurance products, including vehicles, life, and property (houses and businesses), as well as energy products, using Grails and Spring Boot frameworks.</li>
     <li>Utilized AWS services (e.g., EC2, S3, RDS) for scalable and secure infrastructure to host and manage the platform, ensuring high availability and fault tolerance.</li>
     <li>Integrated various third-party APIs and internal services to compare offerings from different insurance and energy providers.</li>
     <li>Optimized the application for performance and scalability, handling large volumes of user traffic and data processing.</li>
