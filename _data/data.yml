@@ -29,12 +29,8 @@ sidebar:
           
 career-profile:
     title: Career Profile
-    text: 'Aspiring Full Stack Developer with a passion for technology and learning. Proficient knowledge and experience over a broad IT spectrum (network, system administration, databases). Developed communication and professional skills from previous positions in various sectors.'
-    
-studies:
-    - education:
-      degree: Java Full Stack Developer
-      university: AFDEmp - Peoplecert
+    text: 'Experienced Software Engineer with a demonstrated history of building and optimizing web applications and data analytics flows across multiple business domains, including insurance, marketing, and energy. Proficient in multiple programming languages such as Java, Python, and PHP, with a strong focus on delivering scalable and efficient solutions. Skilled in agile methodologies and effective collaboration within fast-paced, high-demand environments, ensuring high-quality results and continuous improvement.'
+
       
 experiences:
     - experience:
@@ -50,7 +46,7 @@ experiences:
           <li>Implemented security best practices and conducted regular code reviews to ensure high standards of code quality and application security.</li>
         </ul>"
     - experience:
-      role: PHP Full Stack Developer & Devops
+      role: Full Stack Developer & DevOps Engineer
       time: February 2022 - August 2023
       company: Computer Solutions S.A.
       details: "<ul>
@@ -63,12 +59,12 @@ experiences:
         </ul></li>
         </ul>"
     - experience:
-      role: Software Engineer
+      role: Backend Software Engineer
       time: May 2021 - January 2022
       company: TGN Solutions
       details: "Development of a Data Mining/Analytics software and REST API's for serving the data"
     - experience:
-      role: PHP Full Stack Developer
+      role: Full Stack Developer
       time: November 2019 - May  2021
       company: Computer Solutions S.A.
       details: "Modernize legacy Hospital administration & Document Registration applications with the use of Clean Code, Clean Code, Design Patterns, OOP. <br>Migrate PHP, Nginx native instalations to Docker Containers"
@@ -78,12 +74,12 @@ experiences:
       company: Cavotagoo
       details: "Administering networks in a Windows Server/Workstation environment. <br>Maintain hardware/software on 20+ computers and 8 copiers/printers. <br>Providing daily support for computer network users. <br>Installation of new server racks"
     - experience:
-      role: Ecommerce Marketing Manager & Eshop Administrator 
+      role: Ecommerce Manager 
       time: August 2016 - February 2019
       company:  Soccersport.gr
       details: "Site/Server Administrator (OpenCart, CPANEL). <br>Inventory/stock update. <br>Web development (html,css,mysql.php). <br>Online markteting Google campaings,Facebook Ads,Instagram ads). <br>Search engine optimisation. <br>Content Creation (advertisment banners, product photos,advert photos) with tools such us Adobe Premiere&Photoshop"
     - experience:
-      role: IT support Specialist for SHELL MotorOil(Hellas) 
+      role: IT Support Specialist 
       time: September 2014 - July 2016
       company: Diebold Nixdorf, Warsaw, Poland
       details: "IT support on hardware and software(NAMOS POS system). <br>Site(petrol stations) assistance from remote connection(VNC,RDP). <br>Problem solving using Microsoft SQL Server. <br>Troubleshhoting and resolving of hardware or software issues with use of provided toolset Technical network support WAN & LAN ,modems, routers, firewalls,switches Maintaining site's operability 24/7"
@@ -92,33 +88,22 @@ skills:
     title: Technical expertise
     skills:
         - skill:
-          name: "Web services design & implementation - REST"
-          level: 98%
-        - skill:
-          name: "Languages: Java, Javascript, PHP, Python"
+          name: "Languages: Java,  Python, PHP, Javascript"
           level: 85%
         - skill:
-          name: "Frameworks: Symfony, Laravel, Express, ReactJs, Vue.js, Spring Boot, Grails"
+          name: "Frameworks: Symfony, Laravel, React.js, Vue.js, Spring Boot, Grails"
           level: 98%
         - skill:
-          name: "Automation tools: Ansible"
-          level: 98%  
-        - skill:
-          name: Other:JQuery
+          name: "Cloud & Automation Tools: AWS, Docker, Podman, Ansible"
           level: 98%
         - skill:
-          name: "Middleware: Nginx, Tomcat, Apache HTTP, Traefik"
+          name: "Middleware: Nginx, Tomcat, Traefik, Apache HTTP"
           level: 98%
         - skill:
-          name: "DevOps: Docker, Podman"
+          name: "DevOps: CI/CD, GitHub Actions"
           level: 98%
-       - skill:
-          name: "Sysadmin: Proxmox OS"
+        - skill:
+          name: "Container Orchestration: Kubernetes (Entry Level)"
           level: 98%
-         - skill:
-          name: "Network Adminstration: Mikrotik RouterOS"
-          level: 98%
-
-
 footer: 
     text: 'This resume was created with Jekyll and Github Pages. You can find the source code @ <a href="https://github.com/Gorosc/gorosc.github.io" target="_blank">https://github.com/h00jje/h00jie.github.io</a> <br> Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
