@@ -41,12 +41,14 @@ experiences:
       role: Software Engineer
       time: September 2023 - now
       company: Pricefox.gr
-      details: "Developed and maintained a price comparison platform for insurance (car, truck, life) and energy products using Grails and Spring Boot frameworks.
-Utilized AWS services (e.g., EC2, S3, RDS) for scalable and secure infrastructure to host and manage the platform, ensuring high availability and fault tolerance.
-Integrated various third-party APIs and internal services to compare offerings from different insurance and energy providers.
-Optimized the application for performance and scalability, handling large volumes of user traffic and data processing.
-Collaborated with cross-functional teams, including product managers and front-end developers, to enhance the platform's features and improve user experience.
-Implemented security best practices and conducted regular code reviews to ensure high standards of code quality and application security."
+      details: "<ul>
+    <li>Developed and maintained a price comparison platform for insurance (car, truck, life) and energy products using Grails and Spring Boot frameworks.</li>
+    <li>Utilized AWS services (e.g., EC2, S3, RDS) for scalable and secure infrastructure to host and manage the platform, ensuring high availability and fault tolerance.</li>
+    <li>Integrated various third-party APIs and internal services to compare offerings from different insurance and energy providers.</li>
+    <li>Optimized the application for performance and scalability, handling large volumes of user traffic and data processing.</li>
+    <li>Collaborated with cross-functional teams, including product managers and front-end developers, to enhance the platform's features and improve user experience.</li>
+    <li>Implemented security best practices and conducted regular code reviews to ensure high standards of code quality and application security.</li>
+  </ul>"
     - experience:
       role: PHP Full Stack Developer & Devops
       time: February 2022 - August 2023
