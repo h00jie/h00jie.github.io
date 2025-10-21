@@ -33,8 +33,21 @@ career-profile:
       
 experiences:
     - experience:
+      role: Senior Software Engineer – Government Digital Services
+      time: December 2024 - now
+      company: Netcompany‑Intrasoft
+    details: "<ul>
+      <li>Contributed to the design, development, and maintenance of the official <strong>myEFKA mobile application</strong> — a key digital platform enabling Greek citizens to access their insurance information, pension application status, and secure documents on the go.</li>
+      <li>Developed backend services and mobile front-end features, ensuring seamless integration with the national social-security infrastructure and secure authentication via <strong>TAXISnet</strong>.</li>
+      <li>Collaborated with UI/UX designers, QA engineers, and DevOps teams to implement new features, optimize performance, and enhance application security.</li>
+      <li>Ensured compliance with public-sector standards, data-privacy regulations, and high-availability requirements, given the app’s national importance.</li>
+      <li>Monitored user feedback and metrics to improve usability, focusing on session management and overall stability.</li>
+      <li>Implemented the latest feature — <strong>mobile push notifications</strong> — using <strong>Kafka</strong> and <strong>Firebase</strong> to deliver real-time updates and improve citizen engagement.</li>
+      <li>Utilized technologies such as <strong>Jakarta EE</strong>, <strong>Oracle</strong>, and <strong>WildFly</strong> to deliver robust, scalable, and maintainable solutions supporting Greece’s ongoing digital transformation.</li>
+    </ul>"
+    - experience:
       role: Software Engineer
-      time: September 2023 - now
+      time: September 2023 - December 2024
       company: Pricefox.gr
       details: "<ul>
           <li>Developed and maintained a price comparison platform for insurance products, including vehicles, life, and property (houses and businesses), as well as energy products, using Grails and Spring Boot frameworks.</li>
