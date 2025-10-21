@@ -10,7 +10,7 @@ theme_skin: turquoise
 #education_in_main: True
 
 # Tracker
-analytics: UA-17543957-2
+# analytics: UA-17543957-2
 
 # Sass/SCSS
 sass:
