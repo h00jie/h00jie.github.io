@@ -33,8 +33,19 @@ career-profile:
       
 experiences:
     - experience:
+      role: Backend Developer / Core Implementer
+      time: July 2026 - now
+      company: Eyeonix
+      details: "<ul>
+        <li>Architected and implemented high-throughput, mission-critical backend services and core engines for real-time Push-to-Talk (PTT) and communications platforms.</li>
+        <li>Designed low-latency, non-blocking concurrency pipelines utilizing event-driven ring buffers (Disruptor pattern) and keyed lane serialization to eliminate locking overhead and ensure strict per-entity message ordering.</li>
+        <li>Built resilient distributed write-behind caching and transactional outbox architectures using Redis and MongoDB, incorporating distributed lease management, adaptive batching, and crash-recovery mechanisms.</li>
+        <li>Engineered real-time session lifecycle, voice/control signaling pipelines, and resource arbitration flows adhering strictly to non-blocking I/O and zero-blocking hot-path execution rules.</li>
+        <li>Integrated comprehensive system telemetry and metrics using Micrometer to track queue depths, latency profiles, and throughput across production clusters.</li>
+        </ul>"
+    - experience:
       role: Senior Software Engineer – Government Digital Services
-      time: December 2024 - now
+      time: December 2024 - July 2026
       company: Netcompany‑Intrasoft
       details: "<ul>
         <li>Contributed to the design, development, and maintenance of the official <strong>myEFKA mobile application</strong> — a key digital platform enabling Greek citizens to access their insurance information, pension application status, and secure documents on the go.</li>
@@ -111,6 +122,12 @@ skills:
         - skill:
           name: "Middleware: Nginx, Tomcat, Traefik, Apache HTTP"
           level: 98%
+        - skill:
+          name: "Databases: MongoDB, Redis, MySQL, Oracle"
+          level: 95%
+        - skill:
+          name: "Architecture: Event-Driven Architecture"
+          level: 95%
         - skill:
           name: "DevOps: CI/CD, GitHub Actions"
           level: 98%
