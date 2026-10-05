@@ -37,11 +37,11 @@ experiences:
       time: July 2026 - now
       company: Eyeonix
       details: "<ul>
-        <li>Architected and implemented high-throughput, mission-critical backend services and core engines for real-time Push-to-Talk (PTT) and communications platforms.</li>
-        <li>Designed low-latency, non-blocking concurrency pipelines utilizing event-driven ring buffers (Disruptor pattern) and keyed lane serialization to eliminate locking overhead and ensure strict per-entity message ordering.</li>
-        <li>Built resilient distributed write-behind caching and transactional outbox architectures using Redis and MongoDB, incorporating distributed lease management, adaptive batching, and crash-recovery mechanisms.</li>
-        <li>Engineered real-time session lifecycle, voice/control signaling pipelines, and resource arbitration flows adhering strictly to non-blocking I/O and zero-blocking hot-path execution rules.</li>
-        <li>Integrated comprehensive system telemetry and metrics using Micrometer to track queue depths, latency profiles, and throughput across production clusters.</li>
+        <li>Contributing to the backend development of mission-critical services and event engines for real-time Push-to-Talk (PTT) and communications platforms.</li>
+        <li>Collaborating on low-latency, non-blocking pipelines utilizing event-driven ring buffers (Disruptor pattern) and keyed lane serialization to maintain orderly message processing.</li>
+        <li>Assisting with the development and maintenance of distributed write-behind caching routines and outbox mechanisms using Redis and MongoDB.</li>
+        <li>Working on real-time session lifecycle handling, signaling flows, and resource arbitration following strict non-blocking execution standards.</li>
+        <li>Supporting observability and metrics integration across backend services using Micrometer.</li>
         </ul>"
     - experience:
       role: Senior Software Engineer – Government Digital Services
